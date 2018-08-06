@@ -216,9 +216,10 @@ border-right-color: #222;
 }
 
 #heroimage{
-   background-image: url("../img/preschool.jpg");
-     background-size: cover;
+    background-image: url("../img/infant.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom left;
 }
 
 
