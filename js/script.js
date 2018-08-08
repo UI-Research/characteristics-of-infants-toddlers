@@ -2297,18 +2297,18 @@ function funcCat01(){
 			$('.ub-charts-container h3 .ub-cat-category').text(" children from birth to age 2 in ");
 		}
 	}
-	greenColor.domain([0, 125, 250, 375, 500, 625, 750, 875, 1000]);
+	greenColor.domain([0, 100, 200, 300, 400, 500, 600, 700, 800]);
 	$(".ub-map-scale").css("display","block");
 	$(".ub-map-scale p").html("In thousands");
 	$(".ub-scale-0 span").text("0");
-	$(".ub-scale-1 span").text("125").css("margin","32px 0 0 12px");
-	$(".ub-scale-2 span").text("250").css("margin","32px 0 0 12px");
-	$(".ub-scale-3 span").text("375").css("margin","32px 0 0 12px");
-	$(".ub-scale-4 span").text("500").css("margin","32px 0 0 12px");
-	$(".ub-scale-5 span").text("625").css("margin","32px 0 0 12px");
-	$(".ub-scale-6 span").text("750").css("margin","32px 0 0 12px");
-	$(".ub-scale-7 span").text("875").css("margin","32px 0 0 12px");
-	$(".ub-scale-8 span").text("1,000");
+	$(".ub-scale-1 span").text("100").css("margin","32px 0 0 12px");
+	$(".ub-scale-2 span").text("200").css("margin","32px 0 0 12px");
+	$(".ub-scale-3 span").text("300").css("margin","32px 0 0 12px");
+	$(".ub-scale-4 span").text("400").css("margin","32px 0 0 12px");
+	$(".ub-scale-5 span").text("500").css("margin","32px 0 0 12px");
+	$(".ub-scale-6 span").text("600").css("margin","32px 0 0 12px");
+	$(".ub-scale-7 span").text("700").css("margin","32px 0 0 12px");
+	$(".ub-scale-8 span").text("800");
 	$('.ub-map-scale ul.ub-grey-scale').css("display","block");
 	$('.ub-map-scale ul.ub-grey-scale li.ub-grey-scale-2').css("display","block");
 	$(".ub-cat").removeClass("active");
@@ -2343,7 +2343,7 @@ function funcCat01(){
 		})
 };
 function funcCat01_color(){
-	greenColor.domain([0, 125, 250, 375, 500, 625, 750, 875, 1000]);
+	greenColor.domain([0, 100, 200, 300, 400, 500, 600, 700, 800]);
 	$(".ub-map-scale").css("display","block");
 	$(".ub-map-scale p").html("In thousands");
 	$(".ub-scale-0 span").text("0");
@@ -2358,14 +2358,14 @@ function funcCat01_color(){
 		$(".ub-scale-8 span").text("1,600");
 	}
 	if (Cat_Middle_on){
-		$(".ub-scale-1 span").text("125").css("margin","32px 0 0 12px");
-		$(".ub-scale-2 span").text("250").css("margin","32px 0 0 12px");
-		$(".ub-scale-3 span").text("375").css("margin","32px 0 0 12px");
-		$(".ub-scale-4 span").text("500").css("margin","32px 0 0 12px");
-		$(".ub-scale-5 span").text("625").css("margin","32px 0 0 12px");
-		$(".ub-scale-6 span").text("750").css("margin","32px 0 0 12px");
-		$(".ub-scale-7 span").text("875").css("margin","32px 0 0 12px");
-		$(".ub-scale-8 span").text("1,000");					
+		$(".ub-scale-1 span").text("100").css("margin","32px 0 0 12px");
+		$(".ub-scale-2 span").text("200").css("margin","32px 0 0 12px");
+		$(".ub-scale-3 span").text("300").css("margin","32px 0 0 12px");
+		$(".ub-scale-4 span").text("400").css("margin","32px 0 0 12px");
+		$(".ub-scale-5 span").text("500").css("margin","32px 0 0 12px");
+		$(".ub-scale-6 span").text("600").css("margin","32px 0 0 12px");
+		$(".ub-scale-7 span").text("700").css("margin","32px 0 0 12px");
+		$(".ub-scale-8 span").text("800");					
 	}
 	if (Cat_Middle_on){
 		$('.ub-map-scale ul.ub-grey-scale').css("display","block");
