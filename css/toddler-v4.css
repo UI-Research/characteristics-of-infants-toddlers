@@ -130,7 +130,7 @@ p.ub-intro {
 .ub-data h3 {
 	color:#000000;
 	font-family: 'Lato', Arial, Helvetica, sans-serif;
-	font-size: 30px;
+	font-size: 26px;
 	font-weight: normal;
 	height:72px;
 	line-height:36px;
@@ -1131,7 +1131,8 @@ p.ub-intro {
 .ub-page-break {
 	display: none;
 }
-			
+
+
 @media screen and (max-width:1080px) {
 	#ub-loading-overlay {
 		background-position: right 675px;
@@ -1143,6 +1144,11 @@ p.ub-intro {
 	.ub-map-scale {
 		width: 75%;
 	}
+
+	.ub-charts-container h3, .ub-data h3 {
+		font-size: 22px;
+		line-height: 26px;
+	}	
 }
 
 @media screen and (max-width:960px) {
@@ -1173,10 +1179,6 @@ p.ub-intro {
 	}
 	.ub-data {
 		height: 64px;
-	}
-	.ub-data h3 {
-		font-size: 28px;
-		line-height: 32px;
 	}
 	.ub-data-container {
 		margin-top: 91px;
@@ -1297,6 +1299,15 @@ p.ub-intro {
 	#ub-tooltip-question p {
 		font-size: 12px;
 	}
+
+
+	.ub-data h3 {
+		height: unset;
+	}
+		.ub-charts-container h3, .ub-data h3 {
+		font-size: 22px;
+		line-height: 26px;
+	}
 }
 			
 @media screen and (max-width:840px) {
@@ -1331,10 +1342,6 @@ p.ub-intro {
 	.ub-data {
 		height: 90px;
 	}
-	.ub-data h3 {
-		font-size: 26px;
-		line-height: 30px;
-	}	
 	.ub-data-container {
 		margin-top: 117px;
 	}
@@ -1441,6 +1448,10 @@ p.ub-intro {
 	#ub-tooltip-question.ub-long {
 		width: 200px;
 	}
+		.ub-charts-container h3, .ub-data h3 {
+		font-size: 22px;
+		line-height: 26px;
+	}	
 }
 			
 @media screen and (max-width:720px) {
@@ -1681,5 +1692,12 @@ p.ub-intro {
 		font-size: 11px;
 		line-height: 15px;
 		text-align: left;
+	}
+}
+
+@media screen and (max-width:450px) {
+	.ub-charts-container h3, .ub-data h3 {
+		font-size: 18px;
+		line-height: 20px;
 	}
 }
