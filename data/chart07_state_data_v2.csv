@@ -1,0 +1,209 @@
+areaFIPS,areaname,Category,Subcategory,allchildren0to2,atleast1immigparent,allnativebornparents,lowincome,notlowincome,parpostsec,pareducHSless
+1,Alabama,Parental nativity,Only immigrant parents,0.055701733,0.636444211,0,0.080783717,0.028062372,0.032595012,0.10225556
+1,Alabama,Parental nativity,One immigrant and one native-born parent,0.031818479,0.363555789,0,0.030664278,0.033272527,0.035228685,0.024947839
+1,Alabama,Parental nativity,Only native-born parents,0.912479818,0,1,0.88855201,0.938665092,0.932176292,0.872796595
+1,Alabama,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+2,Alaska,Parental nativity,Only immigrant parents,0.059218407,0.56904906,0,0.060463328,0.058990091,0.065621614,0.03938533
+2,Alaska,Parental nativity,One immigrant and one native-born parent,0.044847149,0.43095094,0,0.0235509,0.055592261,0.055407319,0.01213843
+2,Alaska,Parental nativity,Only native-born parents,0.895934463,0,1,0.915985763,0.88541764,0.87897104,0.948476255
+2,Alaska,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+4,Arizona,Parental nativity,Only immigrant parents,0.166194752,0.612684369,0,0.24065122,0.088808745,0.099776924,0.310911953
+4,Arizona,Parental nativity,One immigrant and one native-born parent,0.105061971,0.387315661,0,0.103675164,0.107842728,0.112323545,0.089239791
+4,Arizona,Parental nativity,Only native-born parents,0.728743315,0,1,0.655673623,0.803348541,0.787899554,0.59984827
+4,Arizona,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+5,Arkansas,Parental nativity,Only immigrant parents,0.079475783,0.679304421,0,0.112699002,0.036015049,0.035515614,0.163193062
+5,Arkansas,Parental nativity,One immigrant and one native-born parent,0.037520047,0.320695609,0,0.035679147,0.040225707,0.034509268,0.043253746
+5,Arkansas,Parental nativity,Only native-born parents,0.883004189,0,1,0.851621866,0.923759222,0.929975092,0.793553174
+5,Arkansas,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+6,California,Parental nativity,Only immigrant parents,0.305439532,0.686847091,0,0.411413431,0.220294133,0.22110261,0.484363288
+6,California,Parental nativity,One immigrant and one native-born parent,0.139258459,0.313152879,0,0.115817487,0.158556283,0.156148151,0.10342636
+6,California,Parental nativity,Only native-born parents,0.555302024,0,1,0.472769082,0.6211496,0.622749209,0.412210345
+6,California,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+8,Colorado,Parental nativity,Only immigrant parents,0.134743989,0.612034678,0,0.240595475,0.073752098,0.079280853,0.319333076
+8,Colorado,Parental nativity,One immigrant and one native-born parent,0.085413449,0.387965322,0,0.098202795,0.078279682,0.081756122,0.097585559
+8,Colorado,Parental nativity,Only native-born parents,0.779842556,0,1,0.661201715,0.847968221,0.838963032,0.583081365
+8,Colorado,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+9,Connecticut,Parental nativity,Only immigrant parents,0.171921462,0.658723295,0,0.226457,0.146049693,0.151349321,0.243419126
+9,Connecticut,Parental nativity,One immigrant and one native-born parent,0.089070462,0.341276675,0,0.05749955,0.103782259,0.098862074,0.055040095
+9,Connecticut,Parental nativity,Only native-born parents,0.739008069,0,1,0.716043472,0.750168025,0.749788582,0.701540768
+9,Connecticut,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+10,Delaware,Parental nativity,Only immigrant parents,0.17337355,0.801364899,0,0.26439178,0.11977274,0.131874248,0.260543495
+10,Delaware,Parental nativity,One immigrant and one native-born parent,0.042974271,0.198635116,0,0.033205405,0.049649384,0.051469907,0.025129054
+10,Delaware,Parental nativity,Only native-born parents,0.783652186,0,1,0.70240283,0.83057785,0.816655874,0.714327455
+10,Delaware,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+11,District of Columbia,Parental nativity,Only immigrant parents,0.158292159,0.619459271,0,0.175127774,0.147256851,0.130007178,0.233598113
+11,District of Columbia,Parental nativity,One immigrant and one native-born parent,0.097240634,0.380540699,0,0.008972174,0.146009982,0.130891204,0.007649309
+11,District of Columbia,Parental nativity,Only native-born parents,0.744467199,0,1,0.815900028,0.706733167,0.739101589,0.758752584
+11,District of Columbia,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+12,Florida,Parental nativity,Only immigrant parents,0.222558692,0.686864197,0,0.276483297,0.16655077,0.183871597,0.306606084
+12,Florida,Parental nativity,One immigrant and one native-born parent,0.101462699,0.313135803,0,0.075463556,0.128647894,0.120285474,0.060570378
+12,Florida,Parental nativity,Only native-born parents,0.675978601,0,1,0.648053169,0.704801321,0.695842922,0.632823527
+12,Florida,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+13,Georgia,Parental nativity,Only immigrant parents,0.15762727,0.738524139,0,0.199722126,0.113123983,0.106100313,0.263537914
+13,Georgia,Parental nativity,One immigrant and one native-born parent,0.055808235,0.261475891,0,0.039637528,0.073252685,0.068190433,0.030357361
+13,Georgia,Parental nativity,Only native-born parents,0.786564469,0,1,0.760640323,0.813623309,0.825709283,0.706104755
+13,Georgia,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+15,Hawaii,Parental nativity,Only immigrant parents,0.141048446,0.511600792,0,0.203563303,0.112756081,0.119236961,0.216528788
+15,Hawaii,Parental nativity,One immigrant and one native-born parent,0.13465178,0.488399237,0,0.085418247,0.157142863,0.153217539,0.070403509
+15,Hawaii,Parental nativity,Only native-born parents,0.724299788,0,1,0.711018443,0.730101049,0.7275455,0.71306771
+15,Hawaii,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+16,Idaho,Parental nativity,Only immigrant parents,0.079420596,0.560690463,0,0.109958574,0.049663641,0.031097675,0.226292431
+16,Idaho,Parental nativity,One immigrant and one native-born parent,0.062227242,0.439309508,0,0.063140519,0.06181604,0.063141443,0.059448648
+16,Idaho,Parental nativity,Only native-born parents,0.858352184,0,1,0.826900899,0.8885203,0.905760884,0.714258909
+16,Idaho,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+17,Illinois,Parental nativity,Only immigrant parents,0.172856614,0.674893498,0,0.237468287,0.129827142,0.130275831,0.297823608
+17,Illinois,Parental nativity,One immigrant and one native-born parent,0.083267674,0.325106502,0,0.06525363,0.095428467,0.091422468,0.059334803
+17,Illinois,Parental nativity,Only native-born parents,0.743875742,0,1,0.697278082,0.774744391,0.778301716,0.642841578
+17,Illinois,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+18,Indiana,Parental nativity,Only immigrant parents,0.075071029,0.665373325,0,0.107786827,0.045561034,0.046491392,0.139543638
+18,Indiana,Parental nativity,One immigrant and one native-born parent,0.037754394,0.334626645,0,0.032529239,0.042916477,0.042384651,0.027309032
+18,Indiana,Parental nativity,Only native-born parents,0.887174547,0,1,0.859683931,0.911522508,0.911123931,0.833147347
+18,Indiana,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+19,Iowa,Parental nativity,Only immigrant parents,0.07684347,0.651886046,0,0.137983441,0.04192321,0.044594847,0.20138149
+19,Iowa,Parental nativity,One immigrant and one native-born parent,0.04103522,0.348113984,0,0.046275966,0.038201313,0.037782513,0.053596556
+19,Iowa,Parental nativity,Only native-born parents,0.882121325,0,1,0.815740585,0.919875503,0.917622626,0.745021939
+19,Iowa,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+20,Kansas,Parental nativity,Only immigrant parents,0.097397372,0.669303536,0,0.165430978,0.047529455,0.056342632,0.233253762
+20,Kansas,Parental nativity,One immigrant and one native-born parent,0.048123114,0.330696493,0,0.042248271,0.052442174,0.050402932,0.040578846
+20,Kansas,Parental nativity,Only native-born parents,0.854479492,0,1,0.792320728,0.900028348,0.893254459,0.726167381
+20,Kansas,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+21,Kentucky,Parental nativity,Only immigrant parents,0.059008867,0.648830891,0,0.080775529,0.034370694,0.038656589,0.104742542
+21,Kentucky,Parental nativity,One immigrant and one native-born parent,0.031937584,0.351169139,0,0.023063505,0.040805448,0.035470553,0.023998644
+21,Kentucky,Parental nativity,Only native-born parents,0.909053564,0,1,0.89616096,0.92482388,0.925872862,0.871258795
+21,Kentucky,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+22,Louisiana,Parental nativity,Only immigrant parents,0.051775035,0.650515914,0,0.072660483,0.028433569,0.031853549,0.08463563
+22,Louisiana,Parental nativity,One immigrant and one native-born parent,0.027815694,0.349484116,0,0.019105166,0.037394453,0.03383214,0.017891534
+22,Louisiana,Parental nativity,Only native-born parents,0.920409262,0,1,0.908234358,0.934171975,0.934314311,0.897472858
+22,Louisiana,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+23,Maine,Parental nativity,Only immigrant parents,0.025677171,0,0,0.049989425,0.010114943,0.023751166,0.033411894
+23,Maine,Parental nativity,One immigrant and one native-born parent,0.033250414,0,0,0.016992174,0.038436782,0.040080093,0.00582282
+23,Maine,Parental nativity,Only native-born parents,0.941072404,0,1,0.933018386,0.951448262,0.93616873,0.960765302
+23,Maine,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+24,Maryland,Parental nativity,Only immigrant parents,0.218471825,0.726689339,0,0.299481213,0.180164799,0.170928732,0.363090634
+24,Maryland,Parental nativity,One immigrant and one native-born parent,0.082168102,0.273310661,0,0.044168901,0.09941005,0.101680286,0.02281501
+24,Maryland,Parental nativity,Only native-born parents,0.699360073,0,1,0.656349897,0.720425129,0.727391005,0.614094377
+24,Maryland,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+25,Massachusetts,Parental nativity,Only immigrant parents,0.218177885,0.700199246,0,0.330557376,0.172834158,0.183566406,0.346899837
+25,Massachusetts,Parental nativity,One immigrant and one native-born parent,0.09341611,0.299800754,0,0.062097277,0.106324077,0.110864125,0.028526004
+25,Massachusetts,Parental nativity,Only native-born parents,0.688405991,0,1,0.607345343,0.720841765,0.705569446,0.624574125
+25,Massachusetts,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+26,Michigan,Parental nativity,Only immigrant parents,0.079937175,0.626426458,0,0.100411512,0.062667653,0.069597527,0.110534027
+26,Michigan,Parental nativity,One immigrant and one native-born parent,0.047671057,0.373573512,0,0.035934854,0.057949133,0.053789239,0.029566273
+26,Michigan,Parental nativity,Only native-born parents,0.87239176,0,1,0.86365366,0.879383206,0.876613259,0.8598997
+26,Michigan,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+27,Minnesota,Parental nativity,Only immigrant parents,0.142926395,0.708498836,0,0.273424298,0.078703329,0.099077292,0.339406252
+27,Minnesota,Parental nativity,One immigrant and one native-born parent,0.058804907,0.291501164,0,0.056779765,0.060237661,0.062132809,0.043893181
+27,Minnesota,Parental nativity,Only native-born parents,0.798268676,0,1,0.66979593,0.86105901,0.83878988,0.61670053
+27,Minnesota,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+28,Mississippi,Parental nativity,Only immigrant parents,0.027285727,0.562840521,0,0.04027155,0.009206479,0.012204821,0.057105672
+28,Mississippi,Parental nativity,One immigrant and one native-born parent,0.021192886,0.437159508,0,0.0230055,0.01892921,0.020707056,0.022153528
+28,Mississippi,Parental nativity,Only native-born parents,0.951521397,0,1,0.936722934,0.971864283,0.967088103,0.920740783
+28,Mississippi,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+29,Missouri,Parental nativity,Only immigrant parents,0.048627552,0.594931006,0,0.0613955,0.037059616,0.035228342,0.083576664
+29,Missouri,Parental nativity,One immigrant and one native-born parent,0.033108909,0.405069023,0,0.030586159,0.035565555,0.037678398,0.021190329
+29,Missouri,Parental nativity,Only native-born parents,0.918263555,0,1,0.908018351,0.92737484,0.927093267,0.895233035
+29,Missouri,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+30,Montana,Parental nativity,Only immigrant parents,0.004786287,0,0,0.002227172,0.006954331,0.00547164,0.003004808
+30,Montana,Parental nativity,One immigrant and one native-born parent,0.023152271,0,0,0.017703159,0.028583946,0.023967324,0.021033654
+30,Montana,Parental nativity,Only native-born parents,0.972061455,0,1,0.980069697,0.964461744,0.970561028,0.975961566
+30,Montana,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+31,Nebraska,Parental nativity,Only immigrant parents,0.108345933,0.698808253,0,0.20500128,0.043038528,0.052522983,0.295517176
+31,Nebraska,Parental nativity,One immigrant and one native-born parent,0.046697937,0.301191777,0,0.052344151,0.043235552,0.040344227,0.068001576
+31,Nebraska,Parental nativity,Only native-born parents,0.84495616,0,1,0.742654562,0.913725913,0.907132804,0.636481225
+31,Nebraska,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+32,Nevada,Parental nativity,Only immigrant parents,0.211916506,0.622290373,0,0.292400926,0.130037114,0.129067957,0.342268318
+32,Nevada,Parental nativity,One immigrant and one native-born parent,0.128626287,0.377709597,0,0.119116679,0.138260961,0.138896123,0.112467997
+32,Nevada,Parental nativity,Only native-born parents,0.659457207,0,1,0.58848238,0.73170191,0.732035935,0.545263708
+32,Nevada,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+33,New Hampshire,Parental nativity,Only immigrant parents,0.07000082,0.600375235,0,0.089631602,0.062405869,0.065235116,0.089648411
+33,New Hampshire,Parental nativity,One immigrant and one native-born parent,0.046594296,0.399624765,0,0.024496771,0.055840895,0.046378091,0.047485642
+33,New Hampshire,Parental nativity,Only native-born parents,0.883404911,0,1,0.885871649,0.881753206,0.888386786,0.862865925
+33,New Hampshire,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+34,New Jersey,Parental nativity,Only immigrant parents,0.292105287,0.733460009,0,0.402001679,0.235406443,0.243778095,0.436652094
+34,New Jersey,Parental nativity,One immigrant and one native-born parent,0.106151298,0.266539961,0,0.06922435,0.126246095,0.123261206,0.054975506
+34,New Jersey,Parental nativity,Only native-born parents,0.6017434,0,1,0.528773963,0.638347447,0.632960677,0.508372426
+34,New Jersey,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+35,New Mexico,Parental nativity,Only immigrant parents,0.120528303,0.558651567,0,0.157283455,0.071420014,0.064895034,0.218973935
+35,New Mexico,Parental nativity,One immigrant and one native-born parent,0.09522032,0.441348463,0,0.085460372,0.108957462,0.095398314,0.094905347
+35,New Mexico,Parental nativity,Only native-born parents,0.784251392,0,1,0.75725615,0.819622517,0.839706659,0.686120689
+35,New Mexico,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+36,New York,Parental nativity,Only immigrant parents,0.270871758,0.729355872,0,0.361917377,0.205128595,0.223500445,0.387548655
+36,New York,Parental nativity,One immigrant and one native-born parent,0.10051316,0.270644158,0,0.063092485,0.127714455,0.120849855,0.05042332
+36,New York,Parental nativity,Only native-born parents,0.628615081,0,1,0.574990153,0.667156935,0.655649722,0.56202805
+36,New York,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+37,North Carolina,Parental nativity,Only immigrant parents,0.15022926,0.724235833,0,0.213328153,0.084000535,0.079844229,0.321815372
+37,North Carolina,Parental nativity,One immigrant and one native-born parent,0.057202153,0.275764167,0,0.051058721,0.064151295,0.062332198,0.044696033
+37,North Carolina,Parental nativity,Only native-born parents,0.792568564,0,1,0.735613108,0.851848185,0.857823551,0.633488595
+37,North Carolina,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+38,North Dakota,Parental nativity,Only immigrant parents,0.037029862,0,0,0.097082391,0.009553989,0.029318882,0.074164473
+38,North Dakota,Parental nativity,One immigrant and one native-born parent,0.030960452,0,0,0.029689748,0.031405192,0.034270342,0.015020654
+38,North Dakota,Parental nativity,Only native-born parents,0.932009697,0,1,0.873227835,0.959040821,0.936410785,0.910814881
+38,North Dakota,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+39,Ohio,Parental nativity,Only immigrant parents,0.061929181,0.680733562,0,0.078267999,0.047045548,0.052676886,0.084184676
+39,Ohio,Parental nativity,One immigrant and one native-born parent,0.029045008,0.319266468,0,0.022165976,0.03546197,0.034055542,0.016992658
+39,Ohio,Parental nativity,Only native-born parents,0.909025788,0,1,0.899565995,0.917492509,0.913267553,0.898822665
+39,Ohio,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+40,Oklahoma,Parental nativity,Only immigrant parents,0.088730395,0.647879303,0,0.128595695,0.049841445,0.042665355,0.179304212
+40,Oklahoma,Parental nativity,One immigrant and one native-born parent,0.04822474,0.352120727,0,0.04215432,0.054520171,0.04877305,0.047146641
+40,Oklahoma,Parental nativity,Only native-born parents,0.863044858,0,1,0.829249978,0.895638406,0.908561587,0.773549139
+40,Oklahoma,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+41,Oregon,Parental nativity,Only immigrant parents,0.146782324,0.636930943,0,0.215281382,0.089235403,0.08986073,0.305838764
+41,Oregon,Parental nativity,One immigrant and one native-born parent,0.083670162,0.363069028,0,0.078889541,0.088231191,0.086592324,0.07550475
+41,Oregon,Parental nativity,Only native-born parents,0.769547522,0,1,0.705829084,0.822533429,0.823546946,0.618656456
+41,Oregon,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+42,Pennsylvania,Parental nativity,Only immigrant parents,0.090969205,0.678084254,0,0.125995085,0.068303376,0.081953652,0.112054914
+42,Pennsylvania,Parental nativity,One immigrant and one native-born parent,0.043186989,0.321915716,0,0.037564822,0.046702005,0.050894063,0.025161576
+42,Pennsylvania,Parental nativity,Only native-born parents,0.865843832,0,1,0.836440086,0.884994626,0.867152274,0.862783492
+42,Pennsylvania,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+44,Rhode Island,Parental nativity,Only immigrant parents,0.174885333,0.689143717,0,0.256170422,0.120315894,0.117148846,0.315944225
+44,Rhode Island,Parental nativity,One immigrant and one native-born parent,0.078886606,0.310856283,0,0.085049517,0.074839666,0.092007309,0.046830755
+44,Rhode Island,Parental nativity,Only native-born parents,0.746228039,0,1,0.658780038,0.804844439,0.790843844,0.637225032
+44,Rhode Island,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+45,South Carolina,Parental nativity,Only immigrant parents,0.06865745,0.64313525,0,0.097497299,0.036949325,0.033824377,0.142978504
+45,South Carolina,Parental nativity,One immigrant and one native-born parent,0.038096845,0.35686475,0,0.030654276,0.04661319,0.047131166,0.018820908
+45,South Carolina,Parental nativity,Only native-born parents,0.893245697,0,1,0.871848404,0.916437507,0.919044435,0.838200569
+45,South Carolina,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+46,South Dakota,Parental nativity,Only immigrant parents,0.047188215,0,0,0.082012542,0.021056775,0.03160898,0.094719961
+46,South Dakota,Parental nativity,One immigrant and one native-born parent,0.031892337,0,0,0.043434273,0.023811867,0.02732938,0.045813765
+46,South Dakota,Parental nativity,Only native-born parents,0.920919478,0,1,0.874553204,0.955131352,0.941061616,0.859466255
+46,South Dakota,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+47,Tennessee,Parental nativity,Only immigrant parents,0.093414165,0.707774878,0,0.133020237,0.049662612,0.056727845,0.164456099
+47,Tennessee,Parental nativity,One immigrant and one native-born parent,0.038568713,0.292225122,0,0.032159928,0.045827247,0.043856166,0.028329719
+47,Tennessee,Parental nativity,Only native-born parents,0.868017137,0,1,0.834819853,0.90451014,0.89941597,0.8072142
+47,Tennessee,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+48,Texas,Parental nativity,Only immigrant parents,0.218193144,0.675884604,0,0.306187689,0.132020295,0.138419271,0.357388943
+48,Texas,Parental nativity,One immigrant and one native-born parent,0.104632892,0.324115396,0,0.101068892,0.10884814,0.108756408,0.097437844
+48,Texas,Parental nativity,Only native-born parents,0.677173972,0,1,0.592743456,0.759131551,0.752824306,0.545173228
+48,Texas,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+49,Utah,Parental nativity,Only immigrant parents,0.089153573,0.562124908,0,0.160740912,0.038254477,0.046076506,0.267352968
+49,Utah,Parental nativity,One immigrant and one native-born parent,0.069447421,0.437875062,0,0.073677063,0.067312397,0.070854276,0.063627601
+49,Utah,Parental nativity,Only native-born parents,0.841399014,0,1,0.765582025,0.894433141,0.883069217,0.669019401
+49,Utah,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+50,Vermont,Parental nativity,Only immigrant parents,0.047313888,0,0,0.081499442,0.03127769,0.035092045,0.080150142
+50,Vermont,Parental nativity,One immigrant and one native-born parent,0.027609751,0,0,0.015479298,0.033492822,0.036817882,0.002870391
+50,Vermont,Parental nativity,Only native-born parents,0.925076365,0,1,0.903021276,0.93522948,0.928090096,0.916979492
+50,Vermont,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+51,Virginia,Parental nativity,Only immigrant parents,0.163352907,0.692136109,0,0.216062084,0.135123998,0.134919733,0.259323776
+51,Virginia,Parental nativity,One immigrant and one native-born parent,0.072659783,0.307863891,0,0.036203843,0.091424473,0.084287651,0.033412077
+51,Virginia,Parental nativity,Only native-born parents,0.763987303,0,1,0.74773407,0.773451507,0.780792594,0.707264125
+51,Virginia,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+53,Washington,Parental nativity,Only immigrant parents,0.186864421,0.670348525,0,0.262381315,0.13584359,0.132720202,0.34789446
+53,Washington,Parental nativity,One immigrant and one native-born parent,0.091892697,0.329651475,0,0.0796372,0.100497633,0.098497182,0.072250329
+53,Washington,Parental nativity,Only native-born parents,0.721242905,0,1,0.657981455,0.763658762,0.768782616,0.579855204
+53,Washington,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+54,West Virginia,Parental nativity,Only immigrant parents,0.012115424,0,0,0.011450905,0.009627473,0.010478668,0.015439309
+54,West Virginia,Parental nativity,One immigrant and one native-born parent,0.014394396,0,0,0.009908118,0.018857937,0.020382134,0.002234637
+54,West Virginia,Parental nativity,Only native-born parents,0.973490179,0,1,0.978640974,0.971514583,0.969139218,0.982326031
+54,West Virginia,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+55,Wisconsin,Parental nativity,Only immigrant parents,0.078667268,0.65713197,0,0.126066521,0.048637811,0.058434706,0.146460071
+55,Wisconsin,Parental nativity,One immigrant and one native-born parent,0.041045781,0.34286806,0,0.04194231,0.040269125,0.043189436,0.03386309
+55,Wisconsin,Parental nativity,Only native-born parents,0.880286932,0,1,0.831991136,0.911093056,0.898375869,0.819676816
+55,Wisconsin,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+56,Wyoming,Parental nativity,Only immigrant parents,0.042552218,0,0,0.08733087,0.020224407,0.022962112,0.103377111
+56,Wyoming,Parental nativity,One immigrant and one native-born parent,0.035833448,0,0,0.04728714,0.030336611,0.04550124,0.005816135
+56,Wyoming,Parental nativity,Only native-born parents,0.921614349,0,1,0.865382016,0.949438989,0.931536674,0.890806735
+56,Wyoming,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0
+100,United States,Parental nativity,Only immigrant parents,0.169652462,0.682162821,0,0.230670452,0.12017563,0.122373015,0.283329278
+100,United States,Parental nativity,One immigrant and one native-born parent,0.07904543,0.317837149,0,0.064878345,0.090773955,0.087666549,0.058317158
+100,United States,Parental nativity,Only native-born parents,0.751302123,0,1,0.704451203,0.7890504,0.789960444,0.658353567
+100,United States,Parental nativity,At least one immigrant parent,0,0,0,0,0,0,0

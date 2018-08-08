@@ -1,0 +1,209 @@
+areaFIPS,areaname,Category,Subcategory,allchildren0to2,atleast1immigparent,allnativebornparents,lowincome,notlowincome,parpostsec,pareducHSless
+1,Alabama,Parental employment,All parents are working full time,0.288760543,0.160951674,0.303494513,0.150016442,0.441282719,0.347190291,0.17103301
+1,Alabama,Parental employment,All parents are working; at least one is not working full time,0.335629374,0.249028563,0.345483601,0.372053474,0.29492411,0.341173559,0.324458659
+1,Alabama,Parental employment,At least one parent is not working,0.375610083,0.590019763,0.351021916,0.477930099,0.26379317,0.31163615,0.504508317
+1,Alabama,Parental employment,All parents are working,0,0,0,0,0,0,0
+2,Alaska,Parental employment,All parents are working full time,0.232744336,0.235009089,0.233356789,0.109141171,0.29432708,0.253617793,0.167929128
+2,Alaska,Parental employment,All parents are working; at least one is not working full time,0.433494925,0.470926702,0.428360313,0.420741588,0.438422263,0.41122964,0.502631903
+2,Alaska,Parental employment,At least one parent is not working,0.333760738,0.294064194,0.338282913,0.470117241,0.267250657,0.335152566,0.329438955
+2,Alaska,Parental employment,All parents are working,0,0,0,0,0,0,0
+4,Arizona,Parental employment,All parents are working full time,0.254187375,0.19776614,0.273571432,0.124439575,0.39119795,0.291374207,0.173529789
+4,Arizona,Parental employment,All parents are working; at least one is not working full time,0.318014383,0.272088766,0.338249445,0.317965865,0.3199628,0.329745293,0.292570204
+4,Arizona,Parental employment,At least one parent is not working,0.427798241,0.530145109,0.388179123,0.557594597,0.288839221,0.378880501,0.533900023
+4,Arizona,Parental employment,All parents are working,0,0,0,0,0,0,0
+5,Arkansas,Parental employment,All parents are working full time,0.284386545,0.231160894,0.290094167,0.154860675,0.455204695,0.325327605,0.206924424
+5,Arkansas,Parental employment,All parents are working; at least one is not working full time,0.350320011,0.270797431,0.36326921,0.365975291,0.329356223,0.374753684,0.30409053
+5,Arkansas,Parental employment,At least one parent is not working,0.365293413,0.49804166,0.346636623,0.479164034,0.215439096,0.299918711,0.488985062
+5,Arkansas,Parental employment,All parents are working,0,0,0,0,0,0,0
+6,California,Parental employment,All parents are working full time,0.251773983,0.222687542,0.275006801,0.110738575,0.362958908,0.289859593,0.171251267
+6,California,Parental employment,All parents are working; at least one is not working full time,0.325996429,0.295305371,0.352137536,0.309196591,0.339822322,0.345195293,0.285405189
+6,California,Parental employment,At least one parent is not working,0.422229588,0.482007086,0.372855663,0.580064833,0.29721874,0.364945114,0.543343544
+6,California,Parental employment,All parents are working,0,0,0,0,0,0,0
+8,Colorado,Parental employment,All parents are working full time,0.273498118,0.209606484,0.290566951,0.10346628,0.371991634,0.301274866,0.181739524
+8,Colorado,Parental employment,All parents are working; at least one is not working full time,0.374517471,0.307398289,0.394777149,0.384642869,0.369548202,0.38340503,0.345158011
+8,Colorado,Parental employment,At least one parent is not working,0.351984411,0.482995242,0.3146559,0.511890888,0.258460164,0.315320104,0.47310245
+8,Colorado,Parental employment,All parents are working,0,0,0,0,0,0,0
+9,Connecticut,Parental employment,All parents are working full time,0.300253123,0.250053912,0.320251882,0.13567096,0.375430942,0.330133528,0.197000995
+9,Connecticut,Parental employment,All parents are working; at least one is not working full time,0.397630244,0.355725676,0.413595229,0.413848191,0.390510052,0.399170369,0.392308325
+9,Connecticut,Parental employment,At least one parent is not working,0.302116662,0.394220412,0.266152889,0.450480849,0.234059021,0.270696104,0.410690695
+9,Connecticut,Parental employment,All parents are working,0,0,0,0,0,0,0
+10,Delaware,Parental employment,All parents are working full time,0.358943284,0.255553931,0.384751052,0.180651039,0.466653198,0.417150706,0.235499516
+10,Delaware,Parental employment,All parents are working; at least one is not working full time,0.325843036,0.233483374,0.354565859,0.334134012,0.320331454,0.322524577,0.332880706
+10,Delaware,Parental employment,At least one parent is not working,0.31521368,0.510962665,0.260683089,0.485214949,0.213015363,0.260324717,0.431619793
+10,Delaware,Parental employment,All parents are working,0,0,0,0,0,0,0
+11,District of Columbia,Parental employment,All parents are working full time,0.41550529,0.372838736,0.431025147,0.149937615,0.560455084,0.504495621,0.179371551
+11,District of Columbia,Parental employment,All parents are working; at least one is not working full time,0.318786323,0.378497332,0.302449077,0.345809221,0.304858536,0.325767547,0.300261855
+11,District of Columbia,Parental employment,At least one parent is not working,0.265708357,0.248663947,0.266525805,0.504253149,0.134686351,0.169736847,0.520366609
+11,District of Columbia,Parental employment,All parents are working,0,0,0,0,0,0,0
+12,Florida,Parental employment,All parents are working full time,0.292284846,0.258026779,0.308876932,0.159313992,0.430380434,0.329935282,0.210659593
+12,Florida,Parental employment,All parents are working; at least one is not working full time,0.336595505,0.30458644,0.354309052,0.348692417,0.323656797,0.341194451,0.326625168
+12,Florida,Parental employment,At least one parent is not working,0.371119618,0.437386781,0.336814016,0.491993576,0.245962769,0.328870267,0.462715238
+12,Florida,Parental employment,All parents are working,0,0,0,0,0,0,0
+13,Georgia,Parental employment,All parents are working full time,0.292764455,0.221381828,0.313046873,0.147762671,0.44715786,0.345626146,0.185289323
+13,Georgia,Parental employment,All parents are working; at least one is not working full time,0.327205777,0.25133729,0.348892212,0.360487372,0.291718483,0.327527761,0.326551139
+13,Georgia,Parental employment,At least one parent is not working,0.380029768,0.527280867,0.338060915,0.491749972,0.261123657,0.326846063,0.488159537
+13,Georgia,Parental employment,All parents are working,0,0,0,0,0,0,0
+15,Hawaii,Parental employment,All parents are working full time,0.284921676,0.317751229,0.278297454,0.091433778,0.367399603,0.293849945,0.255361557
+15,Hawaii,Parental employment,All parents are working; at least one is not working full time,0.324536264,0.284459084,0.344481617,0.319927096,0.327025443,0.330259115,0.305588782
+15,Hawaii,Parental employment,At least one parent is not working,0.39054206,0.397789687,0.377220958,0.58863914,0.305574983,0.37589097,0.439049661
+15,Hawaii,Parental employment,All parents are working,0,0,0,0,0,0,0
+16,Idaho,Parental employment,All parents are working full time,0.220314518,0.233912379,0.219080761,0.105801627,0.334748507,0.217429519,0.229026482
+16,Idaho,Parental employment,All parents are working; at least one is not working full time,0.400899947,0.303288549,0.41726321,0.400272012,0.39867714,0.419976681,0.343292803
+16,Idaho,Parental employment,At least one parent is not working,0.378785551,0.462799072,0.363656044,0.493926376,0.266574383,0.36259377,0.427680731
+16,Idaho,Parental employment,All parents are working,0,0,0,0,0,0,0
+17,Illinois,Parental employment,All parents are working full time,0.297938883,0.228584513,0.322351754,0.132330358,0.407430768,0.338905603,0.178221136
+17,Illinois,Parental employment,All parents are working; at least one is not working full time,0.359034896,0.298178881,0.381440759,0.373411536,0.348931462,0.362455428,0.349038929
+17,Illinois,Parental employment,At least one parent is not working,0.343026251,0.473236591,0.296207488,0.494258106,0.24363777,0.29863897,0.472739935
+17,Illinois,Parental employment,All parents are working,0,0,0,0,0,0,0
+18,Indiana,Parental employment,All parents are working full time,0.272868514,0.161566615,0.287816942,0.129088059,0.406007409,0.319151938,0.168786272
+18,Indiana,Parental employment,All parents are working; at least one is not working full time,0.382675678,0.285065889,0.396602362,0.398002952,0.368954092,0.389595479,0.367114425
+18,Indiana,Parental employment,At least one parent is not working,0.344455808,0.553367496,0.315580726,0.472908974,0.225038499,0.291252583,0.464099318
+18,Indiana,Parental employment,All parents are working,0,0,0,0,0,0,0
+19,Iowa,Parental employment,All parents are working full time,0.389462411,0.236589536,0.408747017,0.188140035,0.507325947,0.42101568,0.268516183
+19,Iowa,Parental employment,All parents are working; at least one is not working full time,0.358639389,0.331597358,0.363550514,0.396856397,0.334805399,0.363728076,0.339134097
+19,Iowa,Parental employment,At least one parent is not working,0.25189817,0.431813121,0.227702498,0.415003568,0.157868668,0.215256229,0.39234972
+19,Iowa,Parental employment,All parents are working,0,0,0,0,0,0,0
+20,Kansas,Parental employment,All parents are working full time,0.332965612,0.196871474,0.356046408,0.149123341,0.467577159,0.374053299,0.198810995
+20,Kansas,Parental employment,All parents are working; at least one is not working full time,0.358346164,0.339677632,0.361669779,0.405639857,0.323902309,0.351980507,0.379130512
+20,Kansas,Parental employment,At least one parent is not working,0.308688223,0.463450909,0.282283813,0.445236802,0.208520547,0.273966163,0.422058493
+20,Kansas,Parental employment,All parents are working,0,0,0,0,0,0,0
+21,Kentucky,Parental employment,All parents are working full time,0.293773323,0.179744661,0.30711183,0.124063119,0.465455621,0.355801582,0.155766457
+21,Kentucky,Parental employment,All parents are working; at least one is not working full time,0.343808174,0.276287466,0.353954405,0.366338313,0.322418481,0.352583885,0.324283063
+21,Kentucky,Parental employment,At least one parent is not working,0.362418503,0.543967843,0.338933766,0.509598553,0.212125883,0.291614503,0.519950509
+21,Kentucky,Parental employment,All parents are working,0,0,0,0,0,0,0
+22,Louisiana,Parental employment,All parents are working full time,0.319378793,0.200501949,0.329639643,0.188533127,0.459339887,0.379657418,0.220974594
+22,Louisiana,Parental employment,All parents are working; at least one is not working full time,0.328886777,0.234383717,0.338163078,0.354274303,0.303398401,0.33524543,0.3185063
+22,Louisiana,Parental employment,At least one parent is not working,0.35173443,0.565114319,0.332197279,0.45719257,0.237261727,0.285097152,0.460519075
+22,Louisiana,Parental employment,All parents are working,0,0,0,0,0,0,0
+23,Maine,Parental employment,All parents are working full time,0.263803184,0,0.267438442,0.054416075,0.402477205,0.313934058,0.062131394
+23,Maine,Parental employment,All parents are working; at least one is not working full time,0.45633772,0,0.454574823,0.499302357,0.425978869,0.458627403,0.447126597
+23,Maine,Parental employment,At least one parent is not working,0.279859096,0,0.277986705,0.446281582,0.171543941,0.227438539,0.490741998
+23,Maine,Parental employment,All parents are working,0,0,0,0,0,0,0
+24,Maryland,Parental employment,All parents are working full time,0.36724478,0.299338341,0.396543592,0.149356753,0.462473154,0.408354223,0.241896749
+24,Maryland,Parental employment,All parents are working; at least one is not working full time,0.331258148,0.319967568,0.338286698,0.361858159,0.316703379,0.32588312,0.347647309
+24,Maryland,Parental employment,At least one parent is not working,0.301497072,0.380694121,0.26516971,0.488785088,0.220823467,0.265762657,0.410455942
+24,Maryland,Parental employment,All parents are working,0,0,0,0,0,0,0
+25,Massachusetts,Parental employment,All parents are working full time,0.319373488,0.269638956,0.341927409,0.116680771,0.401328802,0.355983526,0.184270516
+25,Massachusetts,Parental employment,All parents are working; at least one is not working full time,0.387998909,0.348225743,0.408464402,0.392553151,0.386731982,0.393544078,0.367535323
+25,Massachusetts,Parental employment,At least one parent is not working,0.292627603,0.382135302,0.249608189,0.490766078,0.211939201,0.250472397,0.448194176
+25,Massachusetts,Parental employment,All parents are working,0,0,0,0,0,0,0
+26,Michigan,Parental employment,All parents are working full time,0.256338924,0.156143829,0.27033183,0.108442046,0.389354438,0.293524444,0.147033393
+26,Michigan,Parental employment,All parents are working; at least one is not working full time,0.406939656,0.299546987,0.424575925,0.432090789,0.385274768,0.414079994,0.385950983
+26,Michigan,Parental employment,At least one parent is not working,0.33672142,0.544309199,0.305092245,0.459467173,0.225370809,0.292395562,0.467015624
+26,Michigan,Parental employment,All parents are working,0,0,0,0,0,0,0
+27,Minnesota,Parental employment,All parents are working full time,0.346154213,0.245598555,0.371458501,0.12661472,0.454465657,0.378827125,0.20045118
+27,Minnesota,Parental employment,All parents are working; at least one is not working full time,0.422430247,0.408709735,0.427149385,0.490289211,0.390300751,0.420512855,0.430980772
+27,Minnesota,Parental employment,At least one parent is not working,0.231415525,0.345691741,0.201392114,0.383096069,0.155233592,0.200660035,0.368568063
+27,Minnesota,Parental employment,All parents are working,0,0,0,0,0,0,0
+28,Mississippi,Parental employment,All parents are working full time,0.308236063,0.198947966,0.315597922,0.193587631,0.465450764,0.367304564,0.193078086
+28,Mississippi,Parental employment,All parents are working; at least one is not working full time,0.321467966,0.211534843,0.325903922,0.326217145,0.317686915,0.328216612,0.308311075
+28,Mississippi,Parental employment,At least one parent is not working,0.370295942,0.589517176,0.358498156,0.480195254,0.216862336,0.304478824,0.498610854
+28,Mississippi,Parental employment,All parents are working,0,0,0,0,0,0,0
+29,Missouri,Parental employment,All parents are working full time,0.321881413,0.224598318,0.331696242,0.165158346,0.456252694,0.368408084,0.200776204
+29,Missouri,Parental employment,All parents are working; at least one is not working full time,0.363499016,0.270366609,0.373107255,0.391826093,0.339587599,0.359695733,0.373398662
+29,Missouri,Parental employment,At least one parent is not working,0.314619571,0.505035102,0.295196503,0.443015575,0.204159707,0.271896183,0.425825119
+29,Missouri,Parental employment,All parents are working,0,0,0,0,0,0,0
+30,Montana,Parental employment,All parents are working full time,0.24747017,0,0.248989537,0.136803061,0.353376567,0.28476721,0.149682164
+30,Montana,Parental employment,All parents are working; at least one is not working full time,0.394707263,0,0.398050725,0.377641648,0.414586723,0.399363577,0.382499009
+30,Montana,Parental employment,At least one parent is not working,0.357822567,0,0.352959722,0.485555291,0.23203674,0.315869242,0.467818826
+30,Montana,Parental employment,All parents are working,0,0,0,0,0,0,0
+31,Nebraska,Parental employment,All parents are working full time,0.373436034,0.231925189,0.402052253,0.18499203,0.50394696,0.402919739,0.276823223
+31,Nebraska,Parental employment,All parents are working; at least one is not working full time,0.364265949,0.270579398,0.382829696,0.414733171,0.329216063,0.373739064,0.333224237
+31,Nebraska,Parental employment,At least one parent is not working,0.262298018,0.497495413,0.215118051,0.400274813,0.166837007,0.223341212,0.38995254
+31,Nebraska,Parental employment,All parents are working,0,0,0,0,0,0,0
+32,Nevada,Parental employment,All parents are working full time,0.242999434,0.199678645,0.263914883,0.119592421,0.367826521,0.281288922,0.182251155
+32,Nevada,Parental employment,All parents are working; at least one is not working full time,0.372344494,0.337481737,0.394446135,0.384300053,0.360697508,0.370548964,0.375193179
+32,Nevada,Parental employment,At least one parent is not working,0.384656072,0.462839603,0.341639012,0.496107519,0.271475971,0.348162115,0.442555666
+32,Nevada,Parental employment,All parents are working,0,0,0,0,0,0,0
+33,New Hampshire,Parental employment,All parents are working full time,0.286627322,0.289399624,0.287027568,0.097126707,0.360976547,0.319932431,0.149114236
+33,New Hampshire,Parental employment,All parents are working; at least one is not working full time,0.419782966,0.315196991,0.434983134,0.381441355,0.43775472,0.418479741,0.425163895
+33,New Hampshire,Parental employment,At least one parent is not working,0.293589711,0.395403385,0.277989298,0.521431923,0.201268747,0.261587828,0.425721854
+33,New Hampshire,Parental employment,All parents are working,0,0,0,0,0,0,0
+34,New Jersey,Parental employment,All parents are working full time,0.296548337,0.267549276,0.315698117,0.14427425,0.375556082,0.327588916,0.204457849
+34,New Jersey,Parental employment,All parents are working; at least one is not working full time,0.339248061,0.28527838,0.377440512,0.323330075,0.348228663,0.351001143,0.304379225
+34,New Jersey,Parental employment,At least one parent is not working,0.364203602,0.447172344,0.306861371,0.532395661,0.276215225,0.321409941,0.491162926
+34,New Jersey,Parental employment,All parents are working,0,0,0,0,0,0,0
+35,New Mexico,Parental employment,All parents are working full time,0.227602527,0.16927208,0.242950574,0.11299473,0.378342211,0.266928941,0.157439083
+35,New Mexico,Parental employment,All parents are working; at least one is not working full time,0.344193488,0.31897375,0.351222545,0.359485537,0.322279394,0.342652321,0.34694314
+35,New Mexico,Parental employment,At least one parent is not working,0.42820397,0.511754155,0.405826867,0.527519703,0.299378395,0.390418768,0.495617777
+35,New Mexico,Parental employment,All parents are working,0,0,0,0,0,0,0
+36,New York,Parental employment,All parents are working full time,0.277271479,0.241624027,0.29815945,0.117387749,0.391855359,0.32340166,0.164081439
+36,New York,Parental employment,All parents are working; at least one is not working full time,0.343777597,0.299926788,0.371450722,0.333031118,0.351734519,0.359282583,0.305732816
+36,New York,Parental employment,At least one parent is not working,0.378950924,0.458449185,0.330389827,0.54958111,0.256410122,0.317315757,0.530185759
+36,New York,Parental employment,All parents are working,0,0,0,0,0,0,0
+37,North Carolina,Parental employment,All parents are working full time,0.282618463,0.183451205,0.309262991,0.138525546,0.434239775,0.32684502,0.175530732
+37,North Carolina,Parental employment,All parents are working; at least one is not working full time,0.343624175,0.293381304,0.35899362,0.362760305,0.32309714,0.349391967,0.329658329
+37,North Carolina,Parental employment,At least one parent is not working,0.373757392,0.523167491,0.331743419,0.498714179,0.242663071,0.323763013,0.494810939
+37,North Carolina,Parental employment,All parents are working,0,0,0,0,0,0,0
+38,North Dakota,Parental employment,All parents are working full time,0.355581671,0,0.354047596,0.146516085,0.451991409,0.378038466,0.24899599
+38,North Dakota,Parental employment,All parents are working; at least one is not working full time,0.382616431,0,0.38782084,0.452959567,0.352187723,0.380230755,0.393939406
+38,North Dakota,Parental employment,At least one parent is not working,0.261801898,0,0.258131564,0.400524348,0.195820868,0.241730765,0.357064635
+38,North Dakota,Parental employment,All parents are working,0,0,0,0,0,0,0
+39,Ohio,Parental employment,All parents are working full time,0.290449232,0.206252769,0.298792273,0.133596405,0.43027395,0.340751767,0.169785097
+39,Ohio,Parental employment,All parents are working; at least one is not working full time,0.392537743,0.331308007,0.401046485,0.42896384,0.362196207,0.392173946,0.393410444
+39,Ohio,Parental employment,At least one parent is not working,0.317013025,0.462439239,0.300161242,0.43743977,0.207529858,0.267074287,0.436804473
+39,Ohio,Parental employment,All parents are working,0,0,0,0,0,0,0
+40,Oklahoma,Parental employment,All parents are working full time,0.284998417,0.186461657,0.301040918,0.160685048,0.407972962,0.32451123,0.206485495
+40,Oklahoma,Parental employment,All parents are working; at least one is not working full time,0.339683175,0.268529534,0.355062634,0.353998274,0.327057034,0.347080886,0.324983716
+40,Oklahoma,Parental employment,At least one parent is not working,0.375318408,0.545008779,0.343896449,0.485316664,0.264970034,0.328407884,0.468530804
+40,Oklahoma,Parental employment,All parents are working,0,0,0,0,0,0,0
+41,Oregon,Parental employment,All parents are working full time,0.200624406,0.173980162,0.208345637,0.086031571,0.297242105,0.222941682,0.138622224
+41,Oregon,Parental employment,All parents are working; at least one is not working full time,0.43044275,0.377126724,0.449810117,0.431225657,0.43044576,0.460302979,0.347484589
+41,Oregon,Parental employment,At least one parent is not working,0.368932843,0.44889313,0.341844261,0.482742757,0.272312135,0.316755325,0.513893187
+41,Oregon,Parental employment,All parents are working,0,0,0,0,0,0,0
+42,Pennsylvania,Parental employment,All parents are working full time,0.307032853,0.237222478,0.317443907,0.140203744,0.416581601,0.359472781,0.185299173
+42,Pennsylvania,Parental employment,All parents are working; at least one is not working full time,0.360104263,0.337864488,0.365862608,0.366002738,0.357481509,0.372826397,0.330571204
+42,Pennsylvania,Parental employment,At least one parent is not working,0.332862884,0.424913019,0.316693485,0.493793517,0.22593689,0.267700821,0.484129608
+42,Pennsylvania,Parental employment,All parents are working,0,0,0,0,0,0,0
+44,Rhode Island,Parental employment,All parents are working full time,0.298286527,0.234824881,0.321295351,0.116978504,0.420846999,0.35062477,0.172128543
+44,Rhode Island,Parental employment,All parents are working; at least one is not working full time,0.388406873,0.289542556,0.420863003,0.348229468,0.414648116,0.412486792,0.33036378
+44,Rhode Island,Parental employment,At least one parent is not working,0.3133066,0.475632548,0.257841647,0.534792006,0.164504871,0.236888424,0.497507691
+44,Rhode Island,Parental employment,All parents are working,0,0,0,0,0,0,0
+45,South Carolina,Parental employment,All parents are working full time,0.294526607,0.181494668,0.307109505,0.160466418,0.439872235,0.348503828,0.180278033
+45,South Carolina,Parental employment,All parents are working; at least one is not working full time,0.344805837,0.266226053,0.357249826,0.36104086,0.329438835,0.349073052,0.335773855
+45,South Carolina,Parental employment,At least one parent is not working,0.360667527,0.552279294,0.335640639,0.478492707,0.23068893,0.30242312,0.483948112
+45,South Carolina,Parental employment,All parents are working,0,0,0,0,0,0,0
+46,South Dakota,Parental employment,All parents are working full time,0.406254351,0,0.414335281,0.180166587,0.576410651,0.473676413,0.19975087
+46,South Dakota,Parental employment,All parents are working; at least one is not working full time,0.362663388,0,0.369836926,0.414179832,0.326704532,0.365572304,0.353753835
+46,South Dakota,Parental employment,At least one parent is not working,0.231082246,0,0.215827778,0.405653566,0.096884795,0.160751253,0.446495295
+46,South Dakota,Parental employment,All parents are working,0,0,0,0,0,0,0
+47,Tennessee,Parental employment,All parents are working full time,0.270619959,0.181522444,0.284257889,0.1457261,0.406574607,0.316202909,0.183064952
+47,Tennessee,Parental employment,All parents are working; at least one is not working full time,0.359481812,0.281099558,0.373876065,0.366627127,0.352226853,0.36865744,0.341857374
+47,Tennessee,Parental employment,At least one parent is not working,0.36989826,0.537378013,0.341866046,0.487646788,0.24119854,0.315139651,0.475077659
+47,Tennessee,Parental employment,All parents are working,0,0,0,0,0,0,0
+48,Texas,Parental employment,All parents are working full time,0.293679237,0.208391771,0.334798008,0.156948179,0.428364277,0.355320036,0.18659468
+48,Texas,Parental employment,All parents are working; at least one is not working full time,0.298469305,0.251297563,0.322282344,0.322756082,0.275353819,0.300700188,0.294593751
+48,Texas,Parental employment,At least one parent is not working,0.407851458,0.540310681,0.342919648,0.520295739,0.296281904,0.343979776,0.518811584
+48,Texas,Parental employment,All parents are working,0,0,0,0,0,0,0
+49,Utah,Parental employment,All parents are working full time,0.168926924,0.189713463,0.165259302,0.075018495,0.2336739,0.166547984,0.178660974
+49,Utah,Parental employment,All parents are working; at least one is not working full time,0.381466359,0.316541284,0.394829929,0.379367024,0.382264525,0.385967672,0.363048047
+49,Utah,Parental employment,At least one parent is not working,0.449606717,0.493745238,0.439910769,0.545614481,0.384061575,0.447484344,0.458290994
+49,Utah,Parental employment,All parents are working,0,0,0,0,0,0,0
+50,Vermont,Parental employment,All parents are working full time,0.308825254,0,0.313867658,0.160282627,0.379475564,0.309807748,0.306180388
+50,Vermont,Parental employment,All parents are working; at least one is not working full time,0.428723544,0,0.423216373,0.442915589,0.423904508,0.46061492,0.34286961
+50,Vermont,Parental employment,At least one parent is not working,0.262451202,0,0.262915969,0.3968018,0.196619913,0.229577348,0.350950003
+50,Vermont,Parental employment,All parents are working,0,0,0,0,0,0,0
+51,Virginia,Parental employment,All parents are working full time,0.332613409,0.289734066,0.346535891,0.142655954,0.428699106,0.368993849,0.210929215
+51,Virginia,Parental employment,All parents are working; at least one is not working full time,0.336625367,0.29456678,0.350892007,0.376029849,0.317052245,0.323871732,0.379283309
+51,Virginia,Parental employment,At least one parent is not working,0.330761224,0.415699184,0.302572101,0.481314182,0.254248679,0.30713442,0.409787476
+51,Virginia,Parental employment,All parents are working,0,0,0,0,0,0,0
+53,Washington,Parental employment,All parents are working full time,0.23059614,0.203232154,0.238578737,0.099046521,0.318625003,0.246427357,0.183203161
+53,Washington,Parental employment,All parents are working; at least one is not working full time,0.371346474,0.339361995,0.386363506,0.384923935,0.362600982,0.371823877,0.369917244
+53,Washington,Parental employment,At least one parent is not working,0.398057401,0.457405835,0.375057757,0.516029537,0.318774015,0.381748766,0.446879596
+53,Washington,Parental employment,All parents are working,0,0,0,0,0,0,0
+54,West Virginia,Parental employment,All parents are working full time,0.247836515,0,0.248210311,0.095910303,0.395815611,0.298864454,0.143411636
+54,West Virginia,Parental employment,All parents are working; at least one is not working full time,0.3613469,0,0.364337355,0.386917025,0.337535203,0.385053068,0.312833965
+54,West Virginia,Parental employment,At least one parent is not working,0.390816569,0,0.387452334,0.517172694,0.266649216,0.316082478,0.543754399
+54,West Virginia,Parental employment,All parents are working,0,0,0,0,0,0,0
+55,Wisconsin,Parental employment,All parents are working full time,0.332617521,0.259517044,0.344011933,0.142618611,0.453631282,0.374019742,0.194451123
+55,Wisconsin,Parental employment,All parents are working; at least one is not working full time,0.403699011,0.304672569,0.41771844,0.441936284,0.380667806,0.403907269,0.403003991
+55,Wisconsin,Parental employment,At least one parent is not working,0.263683468,0.435810387,0.238269627,0.415445089,0.165700912,0.222072989,0.402544886
+55,Wisconsin,Parental employment,All parents are working,0,0,0,0,0,0,0
+56,Wyoming,Parental employment,All parents are working full time,0.238021702,0,0.237555891,0.088087134,0.315890819,0.270920873,0.135795563
+56,Wyoming,Parental employment,All parents are working; at least one is not working full time,0.416413099,0,0.425782412,0.417562962,0.414082378,0.409532964,0.437791467
+56,Wyoming,Parental employment,At least one parent is not working,0.3455652,0,0.336661696,0.494349897,0.270026803,0.319546163,0.42641297
+56,Wyoming,Parental employment,All parents are working,0,0,0,0,0,0,0
+100,United States,Parental employment,All parents are working full time,0.286358029,0.226864859,0.306219459,0.135814652,0.407381326,0.328918725,0.18452251
+100,United States,Parental employment,All parents are working; at least one is not working full time,0.349528909,0.296080858,0.369049698,0.361116201,0.340715349,0.357853234,0.329611212
+100,United States,Parental employment,At least one parent is not working,0.364113063,0.477054268,0.324730814,0.503069162,0.251903325,0.313228041,0.485866249
+100,United States,Parental employment,All parents are working,0,0,0,0,0,0,0

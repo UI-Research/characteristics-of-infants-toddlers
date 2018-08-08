@@ -1,0 +1,209 @@
+areaFIPS,areaname,Category,Subcategory,allchildren0to2,atleast1immigparent,allnativebornparents,lowincome,notlowincome,parpostsec,pareducHSless
+1,Alabama,Housing cost burden,Not burdened by housing and utility costs,0.690593541,0.632831156,0.695700228,0.453035116,0.949654639,0.755393445,0.562009037
+1,Alabama,Housing cost burden,Somewhat burdened by housing and utility costs,0.151527748,0.193741903,0.148321539,0.248663649,0.045789778,0.133759707,0.18760173
+1,Alabama,Housing cost burden,Severely burdened by housing and utility costs,0.157878712,0.173426956,0.155978233,0.29830125,0.004555584,0.110846832,0.250389218
+1,Alabama,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+2,Alaska,Housing cost burden,Not burdened by housing and utility costs,0.638125181,0.63052696,0.637821853,0.338260382,0.784282506,0.654097438,0.583814263
+2,Alaska,Housing cost burden,Somewhat burdened by housing and utility costs,0.207483202,0.241671711,0.204868436,0.259996206,0.183636189,0.20396097,0.222136721
+2,Alaska,Housing cost burden,Severely burdened by housing and utility costs,0.154391646,0.127801329,0.157309696,0.401743412,0.032081302,0.141941622,0.194048986
+2,Alaska,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+4,Arizona,Housing cost burden,Not burdened by housing and utility costs,0.63822031,0.579862535,0.659996569,0.373518348,0.912050724,0.69348985,0.516605139
+4,Arizona,Housing cost burden,Somewhat burdened by housing and utility costs,0.197734311,0.223087132,0.190028697,0.312512785,0.080449648,0.182949275,0.231429145
+4,Arizona,Housing cost burden,Severely burdened by housing and utility costs,0.164045364,0.197050363,0.149974748,0.313968867,0.007499613,0.123560868,0.251965731
+4,Arizona,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+5,Arkansas,Housing cost burden,Not burdened by housing and utility costs,0.6830073,0.669591129,0.687064707,0.471457273,0.966735542,0.733964443,0.589179218
+5,Arkansas,Housing cost burden,Somewhat burdened by housing and utility costs,0.175370619,0.223092586,0.167401835,0.282074004,0.031388339,0.165392086,0.19203417
+5,Arkansas,Housing cost burden,Severely burdened by housing and utility costs,0.141622052,0.107316308,0.145533428,0.246468738,0.001876133,0.100643493,0.218786627
+5,Arkansas,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+6,California,Housing cost burden,Not burdened by housing and utility costs,0.530174732,0.482560813,0.567689657,0.228206322,0.766508937,0.602736592,0.375708491
+6,California,Housing cost burden,Somewhat burdened by housing and utility costs,0.253308147,0.270040542,0.240212038,0.321986556,0.199629575,0.238679856,0.285223931
+6,California,Housing cost burden,Severely burdened by housing and utility costs,0.216517136,0.24739866,0.192098305,0.449807137,0.033861518,0.158583537,0.339067578
+6,California,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+8,Colorado,Housing cost burden,Not burdened by housing and utility costs,0.653991222,0.560598731,0.679930389,0.293772906,0.863032401,0.706595659,0.480209023
+8,Colorado,Housing cost burden,Somewhat burdened by housing and utility costs,0.206425205,0.243452668,0.196197435,0.336705148,0.129980683,0.186988041,0.269753188
+8,Colorado,Housing cost burden,Severely burdened by housing and utility costs,0.139583573,0.195948586,0.123872146,0.369521946,0.00698692,0.106416278,0.250037789
+8,Colorado,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+9,Connecticut,Housing cost burden,Not burdened by housing and utility costs,0.62081486,0.571597993,0.639383614,0.191949546,0.817611754,0.685945153,0.394938916
+9,Connecticut,Housing cost burden,Somewhat burdened by housing and utility costs,0.202361092,0.233052984,0.189936399,0.297825307,0.158649802,0.191533878,0.239101723
+9,Connecticut,Housing cost burden,Severely burdened by housing and utility costs,0.176824048,0.195349008,0.170680001,0.510225117,0.023738429,0.122520953,0.365959376
+9,Connecticut,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+10,Delaware,Housing cost burden,Not burdened by housing and utility costs,0.650514781,0.586467266,0.663272679,0.262735039,0.88237673,0.736793935,0.46440348
+10,Delaware,Housing cost burden,Somewhat burdened by housing and utility costs,0.190956175,0.183098584,0.196624711,0.326265216,0.111560225,0.161170825,0.259068877
+10,Delaware,Housing cost burden,Severely burdened by housing and utility costs,0.158529073,0.23043415,0.140102625,0.410999745,0.006063056,0.102035217,0.276527643
+10,Delaware,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+11,District of Columbia,Housing cost burden,Not burdened by housing and utility costs,0.661160588,0.732788444,0.638144076,0.273964882,0.875030756,0.746326745,0.442974269
+11,District of Columbia,Housing cost burden,Somewhat burdened by housing and utility costs,0.160096198,0.140836209,0.16574049,0.281053096,0.096125461,0.152521923,0.183949381
+11,District of Columbia,Housing cost burden,Severely burdened by housing and utility costs,0.178743199,0.126375347,0.196115464,0.444981992,0.028843788,0.101151317,0.373076379
+11,District of Columbia,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+12,Florida,Housing cost burden,Not burdened by housing and utility costs,0.569291413,0.507411897,0.597362876,0.297010839,0.850039661,0.623766124,0.450203955
+12,Florida,Housing cost burden,Somewhat burdened by housing and utility costs,0.225947142,0.250271708,0.215054572,0.315273941,0.133649707,0.21600835,0.247595072
+12,Florida,Housing cost burden,Severely burdened by housing and utility costs,0.204761475,0.242316395,0.187582567,0.38771522,0.016310608,0.160225555,0.302201003
+12,Florida,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+13,Georgia,Housing cost burden,Not burdened by housing and utility costs,0.622706592,0.568718433,0.635879993,0.353860766,0.907837093,0.696191788,0.471366137
+13,Georgia,Housing cost burden,Somewhat burdened by housing and utility costs,0.197031677,0.230064943,0.188122585,0.304230899,0.083712682,0.175276965,0.242808923
+13,Georgia,Housing cost burden,Severely burdened by housing and utility costs,0.180261746,0.201216623,0.175997406,0.341908336,0.008450202,0.128531247,0.285824955
+13,Georgia,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+15,Hawaii,Housing cost burden,Not burdened by housing and utility costs,0.55619365,0.543863237,0.553772986,0.292399049,0.671254218,0.541128874,0.593000054
+15,Hawaii,Housing cost burden,Somewhat burdened by housing and utility costs,0.228578746,0.266405821,0.222329646,0.196021378,0.24676092,0.248988628,0.171330616
+15,Hawaii,Housing cost burden,Severely burdened by housing and utility costs,0.215227604,0.189730912,0.223897368,0.511579573,0.08198484,0.209882483,0.2356693
+15,Hawaii,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+16,Idaho,Housing cost burden,Not burdened by housing and utility costs,0.704875112,0.722932398,0.701090753,0.458195537,0.948232889,0.733650863,0.616414666
+16,Idaho,Housing cost burden,Somewhat burdened by housing and utility costs,0.17985633,0.154266357,0.185738757,0.313541234,0.048168313,0.163297012,0.2317186
+16,Idaho,Housing cost burden,Severely burdened by housing and utility costs,0.115268566,0.122801267,0.113170467,0.228263214,0.003598782,0.103052109,0.151866704
+16,Idaho,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+17,Illinois,Housing cost burden,Not burdened by housing and utility costs,0.658687055,0.58698225,0.68374151,0.317951381,0.882312834,0.727150381,0.458034873
+17,Illinois,Housing cost burden,Somewhat burdened by housing and utility costs,0.184301704,0.236996517,0.165816203,0.31021139,0.102390572,0.161392719,0.251807928
+17,Illinois,Housing cost burden,Severely burdened by housing and utility costs,0.157011226,0.176021218,0.150442287,0.371837229,0.015296597,0.111456931,0.290157229
+17,Illinois,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+18,Indiana,Housing cost burden,Not burdened by housing and utility costs,0.70590359,0.65073204,0.713667929,0.435443729,0.952640057,0.772040009,0.556881785
+18,Indiana,Housing cost burden,Somewhat burdened by housing and utility costs,0.155132681,0.188213766,0.149592221,0.278468132,0.043850351,0.137031645,0.196920887
+18,Indiana,Housing cost burden,Severely burdened by housing and utility costs,0.138963729,0.161054179,0.13673985,0.286088139,0.003509598,0.090928368,0.246197313
+18,Indiana,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+19,Iowa,Housing cost burden,Not burdened by housing and utility costs,0.771547258,0.673387408,0.785580039,0.463745713,0.950472593,0.815712392,0.602648199
+19,Iowa,Housing cost burden,Somewhat burdened by housing and utility costs,0.136809796,0.192470804,0.127914265,0.287847102,0.047876511,0.123074055,0.187725931
+19,Iowa,Housing cost burden,Severely burdened by housing and utility costs,0.091642968,0.134141803,0.086505674,0.248407185,0.001650914,0.061213523,0.2096259
+19,Iowa,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+20,Kansas,Housing cost burden,Not burdened by housing and utility costs,0.731054664,0.646404564,0.746697843,0.447591782,0.940844297,0.788543582,0.549568236
+20,Kansas,Housing cost burden,Somewhat burdened by housing and utility costs,0.154166952,0.179860815,0.147481874,0.286468476,0.054219902,0.133944735,0.212372944
+20,Kansas,Housing cost burden,Severely burdened by housing and utility costs,0.114778377,0.173734605,0.105820268,0.265939742,0.00493582,0.077511676,0.238058805
+20,Kansas,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+21,Kentucky,Housing cost burden,Not burdened by housing and utility costs,0.706007838,0.624372423,0.716885388,0.453045458,0.961521149,0.765367508,0.577916443
+21,Kentucky,Housing cost burden,Somewhat burdened by housing and utility costs,0.144674838,0.207072154,0.13759625,0.256415218,0.033954941,0.131628975,0.174019605
+21,Kentucky,Housing cost burden,Severely burdened by housing and utility costs,0.149317324,0.168555439,0.145518348,0.290539324,0.004523898,0.103003494,0.248063937
+21,Kentucky,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+22,Louisiana,Housing cost burden,Not burdened by housing and utility costs,0.676024318,0.613218069,0.681193411,0.423702061,0.942352057,0.747018993,0.560044467
+22,Louisiana,Housing cost burden,Somewhat burdened by housing and utility costs,0.152393728,0.186837703,0.149423063,0.248733193,0.04962201,0.140016824,0.172435686
+22,Louisiana,Housing cost burden,Severely burdened by housing and utility costs,0.171581939,0.199944228,0.169383526,0.327564746,0.008025919,0.112964191,0.267519861
+22,Louisiana,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+23,Maine,Housing cost burden,Not burdened by housing and utility costs,0.696114898,0,0.693755865,0.355827361,0.914305151,0.743343234,0.502943218
+23,Maine,Housing cost burden,Somewhat burdened by housing and utility costs,0.182200745,0,0.183446899,0.343526304,0.080163226,0.169104367,0.239698842
+23,Maine,Housing cost burden,Severely burdened by housing and utility costs,0.121684358,0,0.122797228,0.300646335,0.005531625,0.087552421,0.257357985
+23,Maine,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+24,Maryland,Housing cost burden,Not burdened by housing and utility costs,0.641151428,0.578898907,0.668041468,0.216027096,0.822979093,0.694835484,0.47845912
+24,Maryland,Housing cost burden,Somewhat burdened by housing and utility costs,0.20231244,0.244225949,0.184832633,0.308487475,0.157968476,0.194041505,0.22882165
+24,Maryland,Housing cost burden,Severely burdened by housing and utility costs,0.156536162,0.176875174,0.1471259,0.475485444,0.019052435,0.111123011,0.292719215
+24,Maryland,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+25,Massachusetts,Housing cost burden,Not burdened by housing and utility costs,0.658506095,0.581406474,0.693394005,0.245197043,0.827750742,0.718846917,0.430736661
+25,Massachusetts,Housing cost burden,Somewhat burdened by housing and utility costs,0.19542779,0.230696753,0.180470794,0.293669254,0.155135736,0.187596902,0.227905944
+25,Massachusetts,Housing cost burden,Severely burdened by housing and utility costs,0.146066144,0.187896758,0.1261352,0.461133689,0.01711352,0.093556203,0.34135741
+25,Massachusetts,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+26,Michigan,Housing cost burden,Not burdened by housing and utility costs,0.682680368,0.64847213,0.689059138,0.399635881,0.937963009,0.743390679,0.506246507
+26,Michigan,Housing cost burden,Somewhat burdened by housing and utility costs,0.155562386,0.16311422,0.153047606,0.2642515,0.05664077,0.141109884,0.196403593
+26,Michigan,Housing cost burden,Severely burdened by housing and utility costs,0.161757231,0.18841365,0.157893285,0.336112618,0.005396242,0.115499429,0.2973499
+26,Michigan,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+27,Minnesota,Housing cost burden,Not burdened by housing and utility costs,0.729229331,0.599136889,0.762253821,0.359031171,0.911461592,0.774594724,0.522654712
+27,Minnesota,Housing cost burden,Somewhat burdened by housing and utility costs,0.164010853,0.227330685,0.148000345,0.333472103,0.081050776,0.153042421,0.215199724
+27,Minnesota,Housing cost burden,Severely burdened by housing and utility costs,0.106759839,0.173532441,0.089745812,0.307496727,0.007487625,0.072362877,0.262145549
+27,Minnesota,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+28,Mississippi,Housing cost burden,Not burdened by housing and utility costs,0.686635554,0.628405035,0.69037503,0.498994768,0.942283511,0.740784466,0.580203891
+28,Mississippi,Housing cost burden,Somewhat burdened by housing and utility costs,0.158641547,0.226376101,0.155984998,0.236686662,0.053905603,0.157994032,0.160513386
+28,Mississippi,Housing cost burden,Severely burdened by housing and utility costs,0.154722929,0.145218864,0.153640002,0.264318556,0.003810862,0.101221502,0.259282738
+28,Mississippi,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+29,Missouri,Housing cost burden,Not burdened by housing and utility costs,0.69605279,0.650090516,0.699944615,0.403936654,0.944339335,0.749325573,0.55568701
+29,Missouri,Housing cost burden,Somewhat burdened by housing and utility costs,0.166638643,0.200101838,0.163531065,0.303731829,0.050732445,0.155918911,0.195738256
+29,Missouri,Housing cost burden,Severely burdened by housing and utility costs,0.137308538,0.149807647,0.13652432,0.292331517,0.004928198,0.09475553,0.248574764
+29,Missouri,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+30,Montana,Housing cost burden,Not burdened by housing and utility costs,0.709818602,0,0.706630051,0.514984846,0.899525404,0.745956004,0.61433512
+30,Montana,Housing cost burden,Somewhat burdened by housing and utility costs,0.182748333,0,0.18693462,0.280446738,0.085265882,0.181573659,0.186554626
+30,Montana,Housing cost burden,Severely burdened by housing and utility costs,0.107433043,0,0.106435359,0.204568416,0.015208716,0.07247036,0.19911024
+30,Montana,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+31,Nebraska,Housing cost burden,Not burdened by housing and utility costs,0.743073046,0.649720788,0.7608729,0.452663362,0.943894744,0.804840684,0.539282978
+31,Nebraska,Housing cost burden,Somewhat burdened by housing and utility costs,0.148029417,0.214934573,0.135215312,0.285700947,0.053126018,0.121816427,0.234390318
+31,Nebraska,Housing cost burden,Severely burdened by housing and utility costs,0.108897537,0.13534461,0.103911795,0.261635691,0.002979232,0.073342875,0.226326689
+31,Nebraska,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+32,Nevada,Housing cost burden,Not burdened by housing and utility costs,0.608091891,0.569588065,0.626029611,0.31829825,0.897798836,0.68006897,0.493683398
+32,Nevada,Housing cost burden,Somewhat burdened by housing and utility costs,0.220825568,0.253578722,0.20407024,0.349688649,0.092685819,0.191677585,0.265804201
+32,Nevada,Housing cost burden,Severely burdened by housing and utility costs,0.171082526,0.176833183,0.169900134,0.332013071,0.009515349,0.128253445,0.240512416
+32,Nevada,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+33,New Hampshire,Housing cost burden,Not burdened by housing and utility costs,0.669392467,0.61280489,0.674621582,0.271311313,0.832103014,0.71023649,0.493932217
+33,New Hampshire,Housing cost burden,Somewhat burdened by housing and utility costs,0.228051707,0.31566605,0.218590394,0.39917925,0.159938484,0.210945949,0.307713777
+33,New Hampshire,Housing cost burden,Severely burdened by housing and utility costs,0.102555797,0.071529083,0.106788002,0.329509407,0.007958477,0.078817569,0.198354021
+33,New Hampshire,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+34,New Jersey,Housing cost burden,Not burdened by housing and utility costs,0.572364569,0.527742207,0.602612913,0.175302684,0.777295828,0.637314856,0.379054427
+34,New Jersey,Housing cost burden,Somewhat burdened by housing and utility costs,0.218427956,0.22871308,0.211421728,0.275287271,0.189262614,0.206579506,0.254051208
+34,New Jersey,Housing cost burden,Severely burdened by housing and utility costs,0.209207505,0.243544728,0.185965374,0.549410045,0.033441566,0.156105652,0.366894364
+34,New Jersey,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+35,New Mexico,Housing cost burden,Not burdened by housing and utility costs,0.639135897,0.630011916,0.641481876,0.430074513,0.915425539,0.690177143,0.550630867
+35,New Mexico,Housing cost burden,Somewhat burdened by housing and utility costs,0.189293027,0.211276844,0.182903007,0.271618873,0.079193793,0.177286983,0.208352581
+35,New Mexico,Housing cost burden,Severely burdened by housing and utility costs,0.171571061,0.15871121,0.175615117,0.298306614,0.005380659,0.13253589,0.241016522
+35,New Mexico,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+36,New York,Housing cost burden,Not burdened by housing and utility costs,0.566525817,0.483516663,0.613205791,0.237321347,0.802951515,0.642296791,0.375064462
+36,New York,Housing cost burden,Somewhat burdened by housing and utility costs,0.199080929,0.227805048,0.183505282,0.25454399,0.159486905,0.188769147,0.226638421
+36,New York,Housing cost burden,Severely burdened by housing and utility costs,0.234393239,0.288678288,0.203288928,0.508134663,0.037561595,0.168934077,0.398297101
+36,New York,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+37,North Carolina,Housing cost burden,Not burdened by housing and utility costs,0.666335106,0.615873337,0.677468002,0.420966625,0.922537088,0.723487377,0.526604533
+37,North Carolina,Housing cost burden,Somewhat burdened by housing and utility costs,0.180938169,0.220225468,0.172032461,0.284883469,0.072228462,0.162560195,0.225695908
+37,North Carolina,Housing cost burden,Severely burdened by housing and utility costs,0.152726725,0.16390121,0.150499552,0.294149905,0.00523445,0.113952413,0.247699529
+37,North Carolina,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+38,North Dakota,Housing cost burden,Not burdened by housing and utility costs,0.793213904,0,0.795871019,0.449531108,0.953674257,0.832653821,0.603870034
+38,North Dakota,Housing cost burden,Somewhat burdened by housing and utility costs,0.124369748,0,0.119124323,0.30362004,0.042586014,0.099846154,0.242059141
+38,North Dakota,Housing cost burden,Severely burdened by housing and utility costs,0.082416363,0,0.08500468,0.246848851,0.003739716,0.067500003,0.154070824
+38,North Dakota,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+39,Ohio,Housing cost burden,Not burdened by housing and utility costs,0.693808496,0.605556786,0.702016354,0.40745315,0.946231008,0.757937908,0.540758073
+39,Ohio,Housing cost burden,Somewhat burdened by housing and utility costs,0.158348307,0.186367661,0.155892149,0.282052934,0.049995553,0.140580386,0.200750157
+39,Ohio,Housing cost burden,Severely burdened by housing and utility costs,0.147843227,0.208075568,0.142091513,0.310493946,0.003773426,0.101481698,0.258491784
+39,Ohio,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+40,Oklahoma,Housing cost burden,Not burdened by housing and utility costs,0.705785394,0.617651284,0.717644036,0.469552368,0.937011898,0.757009625,0.603770375
+40,Oklahoma,Housing cost burden,Somewhat burdened by housing and utility costs,0.174363315,0.260817826,0.161951676,0.293547928,0.056961946,0.15549919,0.21087645
+40,Oklahoma,Housing cost burden,Severely burdened by housing and utility costs,0.119851306,0.12153092,0.120404296,0.236899689,0.006026169,0.087491199,0.185353205
+40,Oklahoma,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+41,Oregon,Housing cost burden,Not burdened by housing and utility costs,0.599484265,0.550318599,0.614342749,0.294472694,0.857521236,0.653969705,0.447869509
+41,Oregon,Housing cost burden,Somewhat burdened by housing and utility costs,0.236144975,0.259935617,0.229128137,0.358471394,0.132973731,0.220742762,0.281310648
+41,Oregon,Housing cost burden,Severely burdened by housing and utility costs,0.164370775,0.189745784,0.156529099,0.347055942,0.009505021,0.125287533,0.270819843
+41,Oregon,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+42,Pennsylvania,Housing cost burden,Not burdened by housing and utility costs,0.682726324,0.610026717,0.693783224,0.352135777,0.89833647,0.753631592,0.518888712
+42,Pennsylvania,Housing cost burden,Somewhat burdened by housing and utility costs,0.171208709,0.202505782,0.166462541,0.294629455,0.091523178,0.152974814,0.212875813
+42,Pennsylvania,Housing cost burden,Severely burdened by housing and utility costs,0.146064967,0.187467515,0.139754221,0.353234768,0.010140341,0.093393572,0.268235475
+42,Pennsylvania,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+44,Rhode Island,Housing cost burden,Not burdened by housing and utility costs,0.615904093,0.544559419,0.643947124,0.261470735,0.854143858,0.697993636,0.416375011
+44,Rhode Island,Housing cost burden,Somewhat burdened by housing and utility costs,0.20386605,0.212763309,0.196464896,0.316313922,0.12751992,0.166270673,0.293774515
+44,Rhode Island,Housing cost burden,Severely burdened by housing and utility costs,0.180229858,0.242677301,0.159587994,0.422215343,0.018336199,0.135735661,0.289850473
+44,Rhode Island,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+45,South Carolina,Housing cost burden,Not burdened by housing and utility costs,0.66397506,0.587495089,0.673293889,0.429705709,0.919921517,0.728796482,0.528090954
+45,South Carolina,Housing cost burden,Somewhat burdened by housing and utility costs,0.187753081,0.237514809,0.181889296,0.292715818,0.072847769,0.175609291,0.212917194
+45,South Carolina,Housing cost burden,Severely burdened by housing and utility costs,0.148271844,0.174990118,0.144816801,0.277578473,0.007230703,0.095594227,0.258991867
+45,South Carolina,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+46,South Dakota,Housing cost burden,Not burdened by housing and utility costs,0.738383591,0,0.737903714,0.477779239,0.931034505,0.808710456,0.522285044
+46,South Dakota,Housing cost burden,Somewhat burdened by housing and utility costs,0.156296104,0,0.156269193,0.276022553,0.067643024,0.132098496,0.230882347
+46,South Dakota,Housing cost burden,Severely burdened by housing and utility costs,0.105320305,0,0.105827093,0.246198222,0.001322492,0.059191067,0.246832579
+46,South Dakota,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+47,Tennessee,Housing cost burden,Not burdened by housing and utility costs,0.666503787,0.526089787,0.68920064,0.421872079,0.931413651,0.732907176,0.54010272
+47,Tennessee,Housing cost burden,Somewhat burdened by housing and utility costs,0.176257253,0.269746274,0.161681563,0.28206718,0.061846528,0.158156231,0.210329413
+47,Tennessee,Housing cost burden,Severely burdened by housing and utility costs,0.15723896,0.204163954,0.149117813,0.296060741,0.006739799,0.1089366,0.249567851
+47,Tennessee,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+48,Texas,Housing cost burden,Not burdened by housing and utility costs,0.661408246,0.595403492,0.692460001,0.405369371,0.913197935,0.735207379,0.53345567
+48,Texas,Housing cost burden,Somewhat burdened by housing and utility costs,0.188861772,0.229497731,0.16978763,0.29972586,0.079652637,0.1647515,0.230737045
+48,Texas,Housing cost burden,Severely burdened by housing and utility costs,0.149729982,0.175098777,0.137752384,0.294904768,0.007149399,0.100041106,0.235807285
+48,Texas,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+49,Utah,Housing cost burden,Not burdened by housing and utility costs,0.692480743,0.584016562,0.712291896,0.384364992,0.904473424,0.720049024,0.577827454
+49,Utah,Housing cost burden,Somewhat burdened by housing and utility costs,0.205997333,0.232144371,0.201895967,0.377887368,0.088575691,0.19980292,0.233787358
+49,Utah,Housing cost burden,Severely burdened by housing and utility costs,0.101521902,0.183839068,0.085812159,0.237747639,0.00695088,0.080148056,0.188385174
+49,Utah,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+50,Vermont,Housing cost burden,Not burdened by housing and utility costs,0.680681229,0,0.690275788,0.311825961,0.853384435,0.714123487,0.591395497
+50,Vermont,Housing cost burden,Somewhat burdened by housing and utility costs,0.22032997,0,0.206396475,0.392153203,0.139907658,0.207187474,0.255951077
+50,Vermont,Housing cost burden,Severely burdened by housing and utility costs,0.098988824,0,0.103327721,0.296020836,0.006707902,0.078689054,0.152653411
+50,Vermont,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+51,Virginia,Housing cost burden,Not burdened by housing and utility costs,0.66087997,0.586817265,0.683317125,0.306548536,0.838611305,0.714119434,0.481808305
+51,Virginia,Housing cost burden,Somewhat burdened by housing and utility costs,0.194637284,0.235716328,0.182583928,0.294599235,0.14486821,0.178017408,0.251443028
+51,Virginia,Housing cost burden,Severely burdened by housing and utility costs,0.144482777,0.177466393,0.134098947,0.398852229,0.016520457,0.107863151,0.266748637
+51,Virginia,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+53,Washington,Housing cost burden,Not burdened by housing and utility costs,0.62670821,0.582799315,0.643290102,0.299281418,0.84594065,0.666258514,0.50918293
+53,Washington,Housing cost burden,Somewhat burdened by housing and utility costs,0.22099328,0.245137721,0.210443422,0.340431541,0.140284181,0.212881163,0.242784828
+53,Washington,Housing cost burden,Severely burdened by housing and utility costs,0.15229848,0.172062963,0.14626649,0.36028704,0.013775193,0.120860331,0.248032227
+53,Washington,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+54,West Virginia,Housing cost burden,Not burdened by housing and utility costs,0.743198752,0,0.744638026,0.512589216,0.966399729,0.794171989,0.638545156
+54,West Virginia,Housing cost burden,Somewhat burdened by housing and utility costs,0.129438117,0,0.129428163,0.228692606,0.032031376,0.108899675,0.171133712
+54,West Virginia,Housing cost burden,Severely burdened by housing and utility costs,0.127363145,0,0.125933826,0.258718193,0.001568884,0.096928343,0.190321133
+54,West Virginia,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+55,Wisconsin,Housing cost burden,Not burdened by housing and utility costs,0.711495697,0.662564218,0.72000277,0.36346221,0.931508005,0.770622194,0.515393853
+55,Wisconsin,Housing cost burden,Somewhat burdened by housing and utility costs,0.160756707,0.219666421,0.15034686,0.314444274,0.063571475,0.137474701,0.23834841
+55,Wisconsin,Housing cost burden,Severely burdened by housing and utility costs,0.127747625,0.117769383,0.129650369,0.322093487,0.004920546,0.09190312,0.246257767
+55,Wisconsin,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+56,Wyoming,Housing cost burden,Not burdened by housing and utility costs,0.733255029,0,0.745536625,0.404858857,0.90034318,0.756033123,0.660681248
+56,Wyoming,Housing cost burden,Somewhat burdened by housing and utility costs,0.173253238,0,0.159293786,0.336454928,0.090391211,0.172289595,0.178822652
+56,Wyoming,Housing cost burden,Severely burdened by housing and utility costs,0.093491711,0,0.095169611,0.258686215,0.009265615,0.071677275,0.160496116
+56,Wyoming,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0
+100,United States,Housing cost burden,Not burdened by housing and utility costs,0.639469862,0.551925302,0.668161035,0.347918361,0.872809589,0.702637792,0.487843126
+100,United States,Housing cost burden,Somewhat burdened by housing and utility costs,0.194345668,0.238082603,0.180038273,0.29755187,0.111887366,0.178506911,0.232626379
+100,United States,Housing cost burden,Severely burdened by housing and utility costs,0.166184455,0.209992111,0.151800707,0.354529738,0.015303062,0.11885532,0.279530495
+100,United States,Housing cost burden,Burdened by housing and utility costs,0,0,0,0,0,0,0

@@ -1,0 +1,209 @@
+areaFIPS,areaname,Category,Subcategory,allchildren0to2,atleast1immigparent,allnativebornparents,lowincome,notlowincome,parpostsec,pareducHSless
+1,Alabama,Parental English proficiency,All are English proficient,0.945971847,0.42463699,0.995403349,0.920710087,0.973749995,0.969440699,0.898839414
+1,Alabama,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.018666087,0.181471124,0.003347762,0.022442251,0.013999187,0.017407084,0.021194536
+1,Alabama,Parental English proficiency,All are limited English proficient,0.035362061,0.393891871,0.001248872,0.056847662,0.012250828,0.013152215,0.079966031
+1,Alabama,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+2,Alaska,Parental English proficiency,All are English proficient,0.921802223,0.57147181,0.963240445,0.882408977,0.943049848,0.931820035,0.890727222
+2,Alaska,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.024919489,0.106904909,0.015161109,0.030303031,0.02004496,0.022740429,0.031678852
+2,Alaska,Parental English proficiency,All are limited English proficient,0.053278305,0.321623266,0.021598425,0.087287977,0.036905207,0.045439512,0.077593945
+2,Alaska,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+4,Arizona,Parental English proficiency,All are English proficient,0.840795994,0.480561882,0.975515783,0.757582903,0.926870644,0.909021795,0.693194687
+4,Arizona,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.070429973,0.229007289,0.012677831,0.092751428,0.047369838,0.056932516,0.099630721
+4,Arizona,Parental English proficiency,All are limited English proficient,0.088774011,0.290430814,0.011806369,0.149665654,0.02575954,0.034045715,0.207174614
+4,Arizona,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+5,Arkansas,Parental English proficiency,All are English proficient,0.922405839,0.369810432,0.994779408,0.88857764,0.966925263,0.967784166,0.836619854
+5,Arkansas,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.025918784,0.210480958,0.001857829,0.031475503,0.018698091,0.015873672,0.044908699
+5,Arkansas,Parental English proficiency,All are limited English proficient,0.051675349,0.41970861,0.003362775,0.079946831,0.01437666,0.016342165,0.118471436
+5,Arkansas,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+6,California,Parental English proficiency,All are English proficient,0.731766403,0.435825318,0.969743431,0.587611198,0.848028302,0.841564715,0.500185192
+6,California,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.094237529,0.193799436,0.014984532,0.112163246,0.080602601,0.087500282,0.10844741
+6,California,Parental English proficiency,All are limited English proficient,0.173996046,0.370375246,0.015272045,0.300225556,0.071369104,0.070935033,0.391367376
+6,California,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+8,Colorado,Parental English proficiency,All are English proficient,0.876546264,0.476489395,0.989984035,0.761630237,0.943090558,0.934645534,0.684942424
+8,Colorado,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.048364569,0.200823158,0.005452633,0.080454089,0.029888049,0.037336059,0.084735148
+8,Colorado,Parental English proficiency,All are limited English proficient,0.075089179,0.322687447,0.004563335,0.157915682,0.027021416,0.028018413,0.230322406
+8,Colorado,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+9,Connecticut,Parental English proficiency,All are English proficient,0.860579371,0.563834369,0.967542112,0.762473762,0.906905711,0.903695107,0.711690903
+9,Connecticut,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.058169179,0.191718787,0.011094327,0.075922035,0.050123509,0.052958123,0.076164134
+9,Connecticut,Parental English proficiency,All are limited English proficient,0.08125145,0.244446844,0.021363562,0.161604211,0.042970765,0.043346763,0.212144986
+9,Connecticut,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+10,Delaware,Parental English proficiency,All are English proficient,0.864801884,0.414839566,0.98809427,0.759628952,0.927344382,0.922433138,0.742579997
+10,Delaware,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.054358974,0.237258598,0.004609957,0.051519919,0.056942198,0.045872398,0.072356932
+10,Delaware,Parental English proficiency,All are limited English proficient,0.080839165,0.347901851,0.007295759,0.188851163,0.01571342,0.03169449,0.185063049
+10,Delaware,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+11,District of Columbia,Parental English proficiency,All are English proficient,0.902234733,0.623860419,0.997032642,0.873437703,0.918204188,0.929166675,0.8315835
+11,District of Columbia,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.013575199,0.0451116,0.002967359,0.008782795,0.016236162,0.016392544,0.006184381
+11,District of Columbia,Parental English proficiency,All are limited English proficient,0.084190056,0.331027985,0,0.117779531,0.065559655,0.054440789,0.162232131
+11,District of Columbia,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+12,Florida,Parental English proficiency,All are English proficient,0.821162462,0.503803849,0.972530365,0.756398737,0.888395369,0.868737698,0.718213022
+12,Florida,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.067972027,0.180504829,0.014577267,0.072545558,0.063888818,0.070225507,0.063095659
+12,Florida,Parental English proficiency,All are limited English proficient,0.110865533,0.315691292,0.012892386,0.171055689,0.047715809,0.061036777,0.218691304
+12,Florida,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+13,Georgia,Parental English proficiency,All are English proficient,0.880209506,0.464496315,0.991652131,0.826459289,0.936399102,0.935190976,0.768644631
+13,Georgia,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.039366525,0.168362647,0.004992523,0.042068169,0.036833797,0.036150023,0.045893241
+13,Georgia,Parental English proficiency,All are limited English proficient,0.080423988,0.367141038,0.003355354,0.131472558,0.026767081,0.028659021,0.185462132
+13,Georgia,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+15,Hawaii,Parental English proficiency,All are English proficient,0.839414835,0.519151568,0.962270081,0.776670694,0.867856562,0.856073022,0.784262121
+15,Hawaii,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.07856337,0.226729825,0.023907818,0.081895508,0.077952795,0.085026972,0.057163358
+15,Hawaii,Parental English proficiency,All are limited English proficient,0.082021788,0.254118621,0.013822115,0.141433775,0.054190636,0.058900021,0.158574507
+15,Hawaii,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+16,Idaho,Parental English proficiency,All are English proficient,0.913838625,0.448705345,0.99039036,0.878063858,0.948755801,0.965001941,0.759395242
+16,Idaho,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.042796597,0.262646139,0.006905255,0.052298088,0.033680908,0.024572235,0.097809315
+16,Idaho,Parental English proficiency,All are limited English proficient,0.043364763,0.288648516,0.002704408,0.069638059,0.017563287,0.010425824,0.142795429
+16,Idaho,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+17,Illinois,Parental English proficiency,All are English proficient,0.85172081,0.461419463,0.986274481,0.773480475,0.904723525,0.904069543,0.699281991
+17,Illinois,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.065438062,0.232813969,0.008185332,0.079091743,0.056952931,0.059402157,0.08301454
+17,Illinois,Parental English proficiency,All are limited English proficient,0.082841106,0.305766553,0.005540199,0.147427812,0.038323537,0.036528271,0.217703491
+17,Illinois,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+18,Indiana,Parental English proficiency,All are English proficient,0.928710818,0.45995608,0.987585187,0.889779329,0.964322984,0.96224916,0.853530705
+18,Indiana,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.027241586,0.192642748,0.006633337,0.034668174,0.020350959,0.020816276,0.041644659
+18,Indiana,Parental English proficiency,All are limited English proficient,0.044047624,0.347401172,0.005781477,0.075552471,0.015326031,0.016934577,0.104824655
+18,Indiana,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+19,Iowa,Parental English proficiency,All are English proficient,0.924716711,0.416858852,0.991867423,0.854679704,0.965041876,0.958547652,0.795039952
+19,Iowa,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.03041425,0.226843238,0.004454033,0.048321027,0.020196185,0.02571582,0.048423707
+19,Iowa,Parental English proficiency,All are limited English proficient,0.044869062,0.35629788,0.003678554,0.096999288,0.014761925,0.015736546,0.156536356
+19,Iowa,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+20,Kansas,Parental English proficiency,All are English proficient,0.91372925,0.452209592,0.99175477,0.854167938,0.957593441,0.953061819,0.785441041
+20,Kansas,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.03330797,0.199131623,0.005419148,0.044086874,0.025464678,0.0267532,0.054687217
+20,Kansas,Parental English proficiency,All are limited English proficient,0.05296275,0.34865877,0.002826061,0.101745188,0.016941868,0.020184983,0.159871757
+20,Kansas,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+21,Kentucky,Parental English proficiency,All are English proficient,0.941308141,0.408191085,0.993635058,0.91744709,0.96925807,0.96806407,0.88187921
+21,Kentucky,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.023715895,0.235045195,0.003028194,0.027733224,0.020113355,0.017562894,0.037382599
+21,Kentucky,Parental English proficiency,All are limited English proficient,0.034975991,0.35676375,0.003336754,0.054819681,0.01062859,0.014373012,0.080738179
+21,Kentucky,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+22,Louisiana,Parental English proficiency,All are English proficient,0.950030744,0.459286124,0.992530644,0.929727912,0.972580016,0.967538595,0.921494246
+22,Louisiana,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.019432496,0.16864194,0.006088812,0.020797096,0.018245893,0.020121276,0.018309839
+22,Louisiana,Parental English proficiency,All are limited English proficient,0.03053678,0.372071952,0.001380533,0.049474973,0.009174103,0.012340105,0.060195941
+22,Louisiana,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+23,Maine,Parental English proficiency,All are English proficient,0.968091488,0,0.995065808,0.951304615,0.984357297,0.968599796,0.966050625
+23,Maine,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.012883503,0,0.00493421,0.008860053,0.015642712,0.015853534,0.000958248
+23,Maine,Parental English proficiency,All are limited English proficient,0.019025004,0,0,0.039835356,0,0.015546692,0.032991104
+23,Maine,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+24,Maryland,Parental English proficiency,All are English proficient,0.865364015,0.56668359,0.992399931,0.787455678,0.90204531,0.918700933,0.703865528
+24,Maryland,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.056207664,0.178495407,0.004295099,0.071054846,0.050555922,0.048236273,0.080344193
+24,Maryland,Parental English proficiency,All are limited English proficient,0.078428306,0.254820973,0.003304973,0.141489476,0.047398742,0.033062797,0.215790272
+24,Maryland,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+25,Massachusetts,Parental English proficiency,All are English proficient,0.843212605,0.563273251,0.971510887,0.69401747,0.904224694,0.889940619,0.671235919
+25,Massachusetts,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.052165631,0.148386702,0.008976698,0.065522723,0.046964865,0.050248303,0.05922211
+25,Massachusetts,Parental English proficiency,All are limited English proficient,0.104621761,0.288340062,0.019512434,0.240459785,0.048810441,0.059811048,0.269541949
+25,Massachusetts,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+26,Michigan,Parental English proficiency,All are English proficient,0.932522178,0.520088673,0.992791831,0.904498458,0.958073199,0.948795021,0.884812593
+26,Michigan,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.031361796,0.218240127,0.004359387,0.036371913,0.026568724,0.030277012,0.034542233
+26,Michigan,Parental English proficiency,All are limited English proficient,0.036116011,0.261671215,0.002848777,0.059129655,0.015358102,0.020927986,0.080645159
+26,Michigan,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+27,Minnesota,Parental English proficiency,All are English proficient,0.892523944,0.500441372,0.990897119,0.778213799,0.94906199,0.937049866,0.694181383
+27,Minnesota,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.041582853,0.180643424,0.006741935,0.061752062,0.031595565,0.034537375,0.072967246
+27,Minnesota,Parental English proficiency,All are limited English proficient,0.06589321,0.318915218,0.002360917,0.16003415,0.019342417,0.028412787,0.232851356
+27,Minnesota,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+28,Mississippi,Parental English proficiency,All are English proficient,0.963683128,0.448994935,0.990064919,0.951278806,0.980626345,0.979329526,0.933238268
+28,Mississippi,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.012891542,0.178658649,0.004393269,0.013886941,0.011645484,0.012445712,0.013759045
+28,Mississippi,Parental English proficiency,All are limited English proficient,0.023425313,0.372346431,0.005541836,0.034834243,0.007728173,0.008224756,0.053002693
+28,Mississippi,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+29,Missouri,Parental English proficiency,All are English proficient,0.955450177,0.567718923,0.990034223,0.934982121,0.974069715,0.969958484,0.917722225
+29,Missouri,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.019215325,0.175718486,0.004995468,0.022842234,0.015929699,0.018410295,0.021308756
+29,Missouri,Parental English proficiency,All are limited English proficient,0.025334477,0.256562561,0.004970289,0.042175662,0.010000594,0.011631213,0.060968999
+29,Missouri,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+30,Montana,Parental English proficiency,All are English proficient,0.986607134,0,0.991898537,0.987645328,0.985816002,0.985263467,0.990113676
+30,Montana,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.008517748,0,0.005954426,0.008760599,0.008359401,0.010986097,0.002076125
+30,Montana,Parental English proficiency,All are limited English proficient,0.00487511,0,0.002147028,0.003594092,0.005824614,0.003750426,0.007810183
+30,Montana,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+31,Nebraska,Parental English proficiency,All are English proficient,0.892984629,0.364447027,0.991420984,0.795843244,0.959747732,0.961181223,0.669772267
+31,Nebraska,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.034502983,0.20560047,0.003654881,0.056047935,0.019789062,0.021856377,0.075896263
+31,Nebraska,Parental English proficiency,All are limited English proficient,0.072512366,0.429952502,0.00492415,0.148108855,0.020463195,0.016962413,0.25433147
+31,Nebraska,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+32,Nevada,Parental English proficiency,All are English proficient,0.794173777,0.430119783,0.979950547,0.696263909,0.890040457,0.883882105,0.651940584
+32,Nevada,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.076974295,0.20780018,0.009474097,0.097442262,0.057565887,0.07016255,0.087774374
+32,Nevada,Parental English proficiency,All are limited English proficient,0.128851891,0.362080038,0.010575386,0.206293851,0.052393645,0.045955352,0.260285079
+32,Nevada,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+33,New Hampshire,Parental English proficiency,All are English proficient,0.948652387,0.615150094,0.992354572,0.906264722,0.965667069,0.963851333,0.885897636
+33,New Hampshire,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.020234436,0.155956849,0.002445291,0.022044277,0.019607844,0.017331081,0.032222066
+33,New Hampshire,Parental English proficiency,All are limited English proficient,0.031113166,0.228893057,0.005200111,0.071691006,0.014725106,0.018817568,0.081880316
+33,New Hampshire,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+34,New Jersey,Parental English proficiency,All are English proficient,0.803163469,0.531212568,0.982106745,0.663309038,0.875875592,0.872081637,0.599501789
+34,New Jersey,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.071531765,0.166081384,0.010013015,0.081517294,0.067185521,0.070279263,0.075233057
+34,New Jersey,Parental English proficiency,All are limited English proficient,0.125304773,0.302706063,0.007880259,0.255173683,0.056938902,0.057639077,0.325265169
+34,New Jersey,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+35,New Mexico,Parental English proficiency,All are English proficient,0.854472458,0.444988072,0.96644944,0.805249989,0.920033276,0.908101499,0.759019017
+35,New Mexico,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.060246509,0.211455852,0.019106084,0.070165135,0.047504384,0.053677335,0.071938865
+35,New Mexico,Parental English proficiency,All are limited English proficient,0.085281029,0.343556076,0.014444463,0.124584906,0.032462321,0.038221139,0.169042125
+35,New Mexico,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+36,New York,Parental English proficiency,All are English proficient,0.788411498,0.503513277,0.957665145,0.671338737,0.874194324,0.853871584,0.628307939
+36,New York,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.072776921,0.157327175,0.023037633,0.088684328,0.060732462,0.070556641,0.078207321
+36,New York,Parental English proficiency,All are limited English proficient,0.138811573,0.339159518,0.019297205,0.239976913,0.065073207,0.075571746,0.293484747
+36,New York,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+37,North Carolina,Parental English proficiency,All are English proficient,0.870958745,0.410283625,0.99000901,0.800840735,0.944708228,0.945208609,0.691699088
+37,North Carolina,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.040872134,0.179033101,0.005128945,0.050781097,0.030926105,0.030232355,0.066559501
+37,North Carolina,Parental English proficiency,All are limited English proficient,0.088169128,0.410683274,0.004862038,0.148378193,0.024365671,0.024559053,0.241741419
+37,North Carolina,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+38,North Dakota,Parental English proficiency,All are English proficient,0.970741451,0,0.99563545,0.948573172,0.980787218,0.980423093,0.924790084
+38,North Dakota,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.011087108,0,0.003013613,0.00857114,0.012341063,0.010615384,0.013326031
+38,North Dakota,Parental English proficiency,All are limited English proficient,0.018171422,0,0.00135093,0.042855702,0.006871728,0.008961539,0.0618839
+38,North Dakota,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+39,Ohio,Parental English proficiency,All are English proficient,0.94369626,0.509473026,0.986354172,0.917609334,0.968759239,0.964711785,0.893372238
+39,Ohio,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.022630991,0.20368427,0.004820409,0.028093195,0.017846525,0.019969024,0.029005375
+39,Ohio,Parental English proficiency,All are limited English proficient,0.033672735,0.286842674,0.00882544,0.054297455,0.013394257,0.015319184,0.077622384
+39,Ohio,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+40,Oklahoma,Parental English proficiency,All are English proficient,0.907378614,0.37163803,0.992544115,0.864663422,0.948758483,0.961361527,0.80069381
+40,Oklahoma,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.034571316,0.229732946,0.003588182,0.041145436,0.028334459,0.02337021,0.056707714
+40,Oklahoma,Parental English proficiency,All are limited English proficient,0.058050096,0.39862904,0.003867683,0.094191156,0.022907086,0.01526828,0.14259845
+40,Oklahoma,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+41,Oregon,Parental English proficiency,All are English proficient,0.865464866,0.437298834,0.992750943,0.78705132,0.93131274,0.924557924,0.701448441
+41,Oregon,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.05433552,0.226039544,0.003777,0.073872782,0.038558107,0.044718042,0.081029393
+41,Oregon,Parental English proficiency,All are limited English proficient,0.080199644,0.336661637,0.003472086,0.13907589,0.030129125,0.030724021,0.217522144
+41,Oregon,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+42,Pennsylvania,Parental English proficiency,All are English proficient,0.917711496,0.529744923,0.977454722,0.865528882,0.952250123,0.945341349,0.853746235
+42,Pennsylvania,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.034849353,0.200265273,0.009556343,0.045048438,0.028521433,0.030745905,0.044349127
+42,Pennsylvania,Parental English proficiency,All are limited English proficient,0.04743918,0.269989789,0.01298896,0.089422695,0.019228419,0.023912726,0.101904608
+42,Pennsylvania,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+44,Rhode Island,Parental English proficiency,All are English proficient,0.846876264,0.468652636,0.975500166,0.741843224,0.91743499,0.914026737,0.685014307
+44,Rhode Island,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.046459559,0.149569988,0.009494744,0.057600122,0.039016511,0.040170714,0.06161841
+44,Rhode Island,Parental English proficiency,All are limited English proficient,0.106664181,0.381777376,0.015005087,0.200556666,0.043548472,0.045802534,0.253367275
+44,Rhode Island,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+45,South Carolina,Parental English proficiency,All are English proficient,0.940687954,0.469555885,0.996108651,0.907377124,0.977578521,0.974849164,0.868477046
+45,South Carolina,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.020682234,0.175893009,0.002441377,0.026687562,0.014147028,0.01542153,0.031802446
+45,South Carolina,Parental English proficiency,All are limited English proficient,0.038629822,0.354551107,0.001449989,0.065935321,0.00827444,0.009729313,0.099720478
+45,South Carolina,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+46,South Dakota,Parental English proficiency,All are English proficient,0.948617935,0,0.990789652,0.92357105,0.968015254,0.966467023,0.894004524
+46,South Dakota,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.019310076,0,0.007920913,0.021237547,0.01807406,0.02114759,0.013687783
+46,South Dakota,Parental English proficiency,All are limited English proficient,0.032072,0,0.001289451,0.055191401,0.013910659,0.012385389,0.092307694
+46,South Dakota,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+47,Tennessee,Parental English proficiency,All are English proficient,0.917222023,0.392843187,0.996270418,0.878504038,0.960057795,0.955349207,0.844169796
+47,Tennessee,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.030282758,0.214899153,0.002463286,0.038011409,0.022179261,0.027316313,0.035966516
+47,Tennessee,Parental English proficiency,All are limited English proficient,0.052495193,0.392257631,0.001266267,0.08348453,0.017762918,0.017334485,0.119863689
+47,Tennessee,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+48,Texas,Parental English proficiency,All are English proficient,0.773556471,0.379139185,0.960892498,0.661733747,0.883129716,0.875656009,0.596440136
+48,Texas,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.079049543,0.213573948,0.015352936,0.093698345,0.065369397,0.066532835,0.100762792
+48,Texas,Parental English proficiency,All are limited English proficient,0.147394001,0.407286853,0.023754582,0.244567901,0.051500909,0.057811152,0.302797079
+48,Texas,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+49,Utah,Parental English proficiency,All are English proficient,0.918145061,0.535415411,0.992081583,0.851064503,0.965381205,0.960244775,0.745883286
+49,Utah,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.035813626,0.192798585,0.00556839,0.054780107,0.022920951,0.02322712,0.087314494
+49,Utah,Parental English proficiency,All are limited English proficient,0.046041336,0.271785975,0.002350036,0.094155364,0.011697823,0.016528104,0.166802198
+49,Utah,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+50,Vermont,Parental English proficiency,All are English proficient,0.970897913,0,0.998446226,0.935477853,0.987368226,0.989778519,0.920069873
+50,Vermont,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.00887259,0,0.0015538,0.01840833,0.004442896,0.005840837,0.017034287
+50,Vermont,Parental English proficiency,All are limited English proficient,0.020229504,0,0,0.046113797,0.008188867,0.004380628,0.062895827
+50,Vermont,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+51,Virginia,Parental English proficiency,All are English proficient,0.88823235,0.553259909,0.99264133,0.82714349,0.92009306,0.9199875,0.782452106
+51,Virginia,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.052249748,0.204446673,0.005689046,0.05468452,0.050737441,0.050463814,0.058198914
+51,Virginia,Parental English proficiency,All are limited English proficient,0.059517886,0.242293388,0.001669611,0.11817196,0.029169485,0.029548692,0.159349009
+51,Virginia,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+53,Washington,Parental English proficiency,All are English proficient,0.846617758,0.488828003,0.984053552,0.74611491,0.91227138,0.907700181,0.664151013
+53,Washington,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.066534288,0.213898256,0.00959721,0.089808501,0.051610019,0.059993595,0.086072788
+53,Washington,Parental English proficiency,All are limited English proficient,0.086847976,0.297273755,0.006349258,0.164076596,0.036118593,0.032306232,0.249776214
+53,Washington,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+54,West Virginia,Parental English proficiency,All are English proficient,0.986739993,0,0.995558918,0.987803638,0.988789022,0.98588568,0.988477528
+54,West Virginia,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.007034578,0,0.002530382,0.006536168,0.007582938,0.010247063,0.000500977
+54,West Virginia,Parental English proficiency,All are limited English proficient,0.006225437,0,0.001910697,0.005660187,0.003628044,0.003867281,0.011021492
+54,West Virginia,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+55,Wisconsin,Parental English proficiency,All are English proficient,0.931880713,0.540678203,0.985577106,0.880142868,0.965885878,0.958084106,0.844732523
+55,Wisconsin,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.026554646,0.164070785,0.007762631,0.037177112,0.019888237,0.023611266,0.036343828
+55,Wisconsin,Parental English proficiency,All are limited English proficient,0.041564669,0.295251042,0.006660279,0.082680009,0.0142259,0.018304627,0.118923627
+55,Wisconsin,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+56,Wyoming,Parental English proficiency,All are English proficient,0.960879445,0,0.998760164,0.913546622,0.984351397,0.976767898,0.911884487
+56,Wyoming,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.02774252,0,0.001239833,0.055275697,0.014138641,0.022571737,0.043687522
+56,Wyoming,Parental English proficiency,All are limited English proficient,0.01137806,0,0,0.031177672,0.001509952,0.000660343,0.044427991
+56,Wyoming,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
+100,United States,Parental English proficiency,All are English proficient,0.853457272,0.465901077,0.981558442,0.775474072,0.916868091,0.912091613,0.713491857
+100,United States,Parental English proficiency,One parent is English proficient and one is limited English proficient,0.054585904,0.192892253,0.00915208,0.065555111,0.046026878,0.048722927,0.068581343
+100,United States,Parental English proficiency,All are limited English proficient,0.091956839,0.34120667,0.0092895,0.158970803,0.037105054,0.039185438,0.21792677
+100,United States,Parental English proficiency,At least one parent is limited English proficient,0,0,0,0,0,0,0
