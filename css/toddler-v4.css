@@ -446,6 +446,10 @@ p.ub-intro {
 	z-index: 0 !important;
 }
 
+#ub-cbsa-menu.icon-opened { 
+	z-index: 100 !important;
+}
+
 .ub-data-container ul {
 	margin-bottom:0px;
 	margin-top: 48px;
