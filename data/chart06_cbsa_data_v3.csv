@@ -3171,7 +3171,7 @@ areaFIPS,areaname,areaname2,Category,Subcategory,allchildren0to2,atleast1immigpa
 56,rest of Wyoming,,Parental employment,All parents are working; at least one is not working full time,0.409055829,0.323878497,0.420525134,0.422882289,0.401923031,0.397653967,0.446648896
 56,rest of Wyoming,,Parental employment,At least one parent is not working,0.337166339,0.487665057,0.324550807,0.498956352,0.257311553,0.313236237,0.41606617
 56,rest of Wyoming,,Parental employment,All parents are working,0,0,0,0,0,0,0
-100,United States,Parental employment,All parents are working full time,0.286358029,0.226864859,0.306219459,0.135814652,0.407381326,0.328918725,0.18452251
-100,United States,Parental employment,All parents are working; at least one is not working full time,0.349528909,0.296080858,0.369049698,0.361116201,0.340715349,0.357853234,0.329611212
-100,United States,Parental employment,At least one parent is not working,0.364113063,0.477054268,0.324730814,0.503069162,0.251903325,0.313228041,0.485866249
-100,United States,Parental employment,All parents are working,0,0,0,0,0,0,0
+100,United States,,Parental employment,All parents are working full time,0.286358029,0.226864859,0.306219459,0.135814652,0.407381326,0.328918725,0.18452251
+100,United States,,Parental employment,All parents are working; at least one is not working full time,0.349528909,0.296080858,0.369049698,0.361116201,0.340715349,0.357853234,0.329611212
+100,United States,,Parental employment,At least one parent is not working,0.364113063,0.477054268,0.324730814,0.503069162,0.251903325,0.313228041,0.485866249
+100,United States,,Parental employment,All parents are working,0,0,0,0,0,0,0
