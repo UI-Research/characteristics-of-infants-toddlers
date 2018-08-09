@@ -116,7 +116,8 @@ p.ub-intro {
 .ub-data {
 	float:left;
 	height: 68px;
-	margin:15px 0 12px 0;
+	/*margin:15px 0 12px 0;*/
+	margin: -10px 0 40px 0;
 	padding:0px 15px;
 	text-align: center;
 	width:100%;
@@ -130,10 +131,10 @@ p.ub-intro {
 .ub-data h3 {
 	color:#000000;
 	font-family: 'Lato', Arial, Helvetica, sans-serif;
-	font-size: 26px;
+	font-size: 24px;
 	font-weight: normal;
-	height:72px;
-	line-height:36px;
+	/*height:72px;*/
+	line-height:32px;
 	margin:0;
 	overflow:hidden;
 }
@@ -1304,7 +1305,8 @@ p.ub-intro {
 	.ub-data h3 {
 		height: unset;
 	}
-		.ub-charts-container h3, .ub-data h3 {
+
+	.ub-charts-container h3, .ub-data h3 {
 		font-size: 22px;
 		line-height: 26px;
 	}
